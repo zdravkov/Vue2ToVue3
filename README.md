@@ -6,7 +6,7 @@
 
 _Tables / data grids_
 
-| :x: | issue | - [vuetable-2](https://github.com/ratiw/vuetable-2) - Data table simplify.
+| :x: | issue | - [vuetable-2](https://github.com/ratiw/vuetable-2) - Data table simplify. |
 | :x: | issue | - [vue-tables-2](https://github.com/matfish2/vue-tables-2) - Vue.js 2 grid components.
 | :x: | issue | - [vue-datasource](https://github.com/coderdiaz/vue-datasource) - A vue.js server-side component to create dynamic tables.
 | :x: | issue | - [ag-grid-vue](https://github.com/ag-grid/ag-grid) - Vue adaptor for ag-Grid.
