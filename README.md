@@ -5,16 +5,16 @@
   #### Table
   
   _Tables / data grids_
-  
-  | :x: | issue | - [vuetable-2](https://github.com/ratiw/vuetable-2) - Data table simplify.  
-  | :x: | issue | - [vue-tables-2](https://github.com/matfish2/vue-tables-2) - Vue.js 2 grid components.
-  | :x: | issue | - [vue-datasource](https://github.com/coderdiaz/vue-datasource) - A vue.js server-side component to create dynamic tables.
-  | :x: | issue | - [ag-grid-vue](https://github.com/ag-grid/ag-grid) - Vue adaptor for ag-Grid.
-  | :x: | issue | - [vue-data-tables](https://github.com/njleonzhang/vue-data-tables) - Vue2.0 DataTables, based on element-ui.
-  | :x: | issue | - [vue-floatThead](https://github.com/tmlee/vue-floatThead) - Vue 2.0 component for floatThead, a floating & sticky table header plugin.
-  | :x: | issue | - [vuetiful-datatable](https://github.com/andrewcourtice/vuetiful/tree/master/src/components/datatable) - Datatable component with sorting, filtering, pagination, grouping and aggregation.
-  | :x: | issue | - [vue-materialize-datatable](https://github.com/MicroDroid/vue-materialize-datatable) - VueJS datatable for Materialize CSS
-  | :x: | issue | - [vue-good-table](https://github.com/xaksis/vue-good-table) - An easy to use, VueJS (2.x) table plugin with sorting, column filtering, pagination etc.
+  https://github.com/ratiw/vuetable-2/issues/692
+  | :x: | [issue](https://github.com/ratiw/vuetable-2/issues/692) | - [vuetable-2](https://github.com/ratiw/vuetable-2) - Data table simplify.  
+  | :white_check_mark: | [only subscribers] | - [vue-tables-2](https://github.com/matfish2/vue-tables-2) - Vue.js 2 grid components.  
+  | :x: | issue | - [vue-datasource](https://github.com/coderdiaz/vue-datasource) - A vue.js server-side component to create dynamic tables. 
+  | :x: | [issue](https://github.com/ag-grid/ag-grid/issues/4323) | - [ag-grid-vue](https://github.com/ag-grid/ag-grid) - Vue adaptor for ag-Grid.  
+  | :x: | issue | - [vue-data-tables](https://github.com/njleonzhang/vue-data-tables) - Vue2.0 DataTables, based on element-ui.  
+  | :x: | issue | - [vue-floatThead](https://github.com/tmlee/vue-floatThead) - Vue 2.0 component for floatThead, a floating & sticky table header plugin.  
+  | :x: | issue | - [vuetiful-datatable](https://github.com/andrewcourtice/vuetiful/tree/master/src/components/datatable) - Datatable component with sorting, filtering, pagination, grouping and aggregation.  
+  | :x: | issue | - [vue-materialize-datatable](https://github.com/MicroDroid/vue-materialize-datatable) - VueJS datatable for Materialize CSS  
+  | :x: | issue | - [vue-good-table](https://github.com/xaksis/vue-good-table) - An easy to use, VueJS (2.x) table plugin with sorting, column filtering, pagination etc.  
   | :x: | issue | - [vue-grid](https://github.com/dzwillia/vue-grid) - A flexible grid component for Vue.js
   | :x: | issue | - [vue-easytable](https://github.com/huangshuwei/vue-easytable) - A powerful table components based on Vue2.x
   | :x: | issue | - [vue2-datatable-component](https://github.com/OneWayTech/vue2-datatable) - The best Datatable for Vue.js 2.x which never sucks
