@@ -4,8 +4,8 @@
   
   #### Table
   
-  _Tables / data grids_
-  https://github.com/ratiw/vuetable-2/issues/692
+  _Tables / data grids  
+
   | :x: | [issue](https://github.com/ratiw/vuetable-2/issues/692) | - [vuetable-2](https://github.com/ratiw/vuetable-2) - Data table simplify.  
   | :white_check_mark: | [only subscribers] | - [vue-tables-2](https://github.com/matfish2/vue-tables-2) - Vue.js 2 grid components.  
   | :x: | issue | - [vue-datasource](https://github.com/coderdiaz/vue-datasource) - A vue.js server-side component to create dynamic tables.  
