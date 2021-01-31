@@ -8,7 +8,7 @@
   https://github.com/ratiw/vuetable-2/issues/692
   | :x: | [issue](https://github.com/ratiw/vuetable-2/issues/692) | - [vuetable-2](https://github.com/ratiw/vuetable-2) - Data table simplify.  
   | :white_check_mark: | [only subscribers] | - [vue-tables-2](https://github.com/matfish2/vue-tables-2) - Vue.js 2 grid components.  
-  | :x: | issue | - [vue-datasource](https://github.com/coderdiaz/vue-datasource) - A vue.js server-side component to create dynamic tables. 
+  | :x: | issue | - [vue-datasource](https://github.com/coderdiaz/vue-datasource) - A vue.js server-side component to create dynamic tables.  
   | :x: | [issue](https://github.com/ag-grid/ag-grid/issues/4323) | - [ag-grid-vue](https://github.com/ag-grid/ag-grid) - Vue adaptor for ag-Grid.  
   | :x: | issue | - [vue-data-tables](https://github.com/njleonzhang/vue-data-tables) - Vue2.0 DataTables, based on element-ui.  
   | :x: | issue | - [vue-floatThead](https://github.com/tmlee/vue-floatThead) - Vue 2.0 component for floatThead, a floating & sticky table header plugin.  
