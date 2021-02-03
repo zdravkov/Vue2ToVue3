@@ -7,19 +7,19 @@
   _Tables / data grids  
 
   | :x: | [issue](https://github.com/ratiw/vuetable-2/issues/692) | - [vuetable-2](https://github.com/ratiw/vuetable-2) - Data table simplify.  
-  | :white_check_mark: | [only subscribers] | - [vue-tables-2](https://github.com/matfish2/vue-tables-2) - Vue.js 2 grid components.  
-  | :x: | issue | - [vue-datasource](https://github.com/coderdiaz/vue-datasource) - A vue.js server-side component to create dynamic tables.  
+  | :white_check_mark: | commercial | - [vue-tables-2](https://github.com/matfish2/vue-tables-2) - Vue.js 2 grid components.  
+  | :x: | no issue | - [vue-datasource](https://github.com/coderdiaz/vue-datasource) - A vue.js server-side component to create dynamic tables.  
   | :x: | [issue](https://github.com/ag-grid/ag-grid/issues/4323) | - [ag-grid-vue](https://github.com/ag-grid/ag-grid) - Vue adaptor for ag-Grid.  
-  | :x: | issue | - [vue-data-tables](https://github.com/njleonzhang/vue-data-tables) - Vue2.0 DataTables, based on element-ui.  
-  | :x: | issue | - [vue-floatThead](https://github.com/tmlee/vue-floatThead) - Vue 2.0 component for floatThead, a floating & sticky table header plugin.  
-  | :x: | issue | - [vuetiful-datatable](https://github.com/andrewcourtice/vuetiful/tree/master/src/components/datatable) - Datatable component with sorting, filtering, pagination, grouping and aggregation.  
-  | :x: | issue | - [vue-materialize-datatable](https://github.com/MicroDroid/vue-materialize-datatable) - VueJS datatable for Materialize CSS  
-  | :x: | issue | - [vue-good-table](https://github.com/xaksis/vue-good-table) - An easy to use, VueJS (2.x) table plugin with sorting, column filtering, pagination etc.  
-  | :x: | issue | - [vue-grid](https://github.com/dzwillia/vue-grid) - A flexible grid component for Vue.js
-  | :x: | issue | - [vue-easytable](https://github.com/huangshuwei/vue-easytable) - A powerful table components based on Vue2.x
-  | :x: | issue | - [vue2-datatable-component](https://github.com/OneWayTech/vue2-datatable) - The best Datatable for Vue.js 2.x which never sucks
-  | :x: | issue | - [vue-js-grid](https://github.com/euvl/vue-js-grid) - Vue.js 2.x responsive grid system with smooth sorting, drag-n-drop and reordering
-  | :x: | issue | - [vue-handsontable-official](https://github.com/handsontable/vue-handsontable-official) A Vue.js wrapper for the Handsontable spreadsheet component
+  | :x: | no issue | - [vue-data-tables](https://github.com/njleonzhang/vue-data-tables) - Vue2.0 DataTables, based on element-ui.  
+  | :x: | no issue | - [vue-floatThead](https://github.com/tmlee/vue-floatThead) - Vue 2.0 component for floatThead, a floating & sticky table header plugin.  
+  | :x: | no issue | - [vuetiful-datatable](https://github.com/andrewcourtice/vuetiful/tree/master/src/components/datatable) - Datatable component with sorting, filtering, pagination, grouping and aggregation.  
+  | :x: | no issue | - [vue-materialize-datatable](https://github.com/MicroDroid/vue-materialize-datatable) - VueJS datatable for Materialize CSS  
+  | :x: | [issue](https://github.com/xaksis/vue-good-table/issues/758) | - [vue-good-table](https://github.com/xaksis/vue-good-table) - An easy to use, VueJS (2.x) table plugin with sorting, column filtering, pagination etc.  
+  | :x: | no issue | - [vue-grid](https://github.com/dzwillia/vue-grid) - A flexible grid component for Vue.js
+  | :x: | no issue | - [vue-easytable](https://github.com/huangshuwei/vue-easytable) - A powerful table components based on Vue2.x
+  | :x: | no issue | - [vue2-datatable-component](https://github.com/OneWayTech/vue2-datatable) - The best Datatable for Vue.js 2.x which never sucks
+  | :x: | no issue | - [vue-js-grid](https://github.com/euvl/vue-js-grid) - Vue.js 2.x responsive grid system with smooth sorting, drag-n-drop and reordering
+  | :x: | [issue](https://github.com/handsontable/vue-handsontable-official/issues/196) | - [vue-handsontable-official](https://github.com/handsontable/vue-handsontable-official) A Vue.js wrapper for the Handsontable spreadsheet component
   | :x: | issue | - [vue-grid](https://github.com/liqueflies/vue-grid) - A powerful flexbox grid system for Vue.js 2.x, built with inline-styles
   | :x: | issue | - [vue-data-tablee](https://github.com/VitorLuizC/vue-data-tablee) - Based on vue-good-table, a simple and pretty table component
   | :x: | issue | - [vue-scrolling-table](https://github.com/richardtallent/vue-scrolling-table) - Simple table component with flexbox sizing, scrolled table body (horizontal and vertical), slots for all tr/th/td rendering.
