@@ -59,39 +59,39 @@
 
  _Toaster / snackbar — Notify the user with a modeless temporary little popup_
 
-| :x: | issue | - [vue-notifications](https://github.com/se-panfilov/vue-notifications) - Vue.js agnostic non-blocking notifications library.
-| :x: | issue | - [vue-easy-toast](https://github.com/noru/vue-easy-toast) - A toast plugin for vue/vue2.
-| :x: | issue | - [vue-toasted](https://github.com/shakee93/vue-toasted) - Responsive Touch Compatible Toast plugin for VueJS.
-| :x: | issue | - [vue-notifikation](https://github.com/happyCoda/vue-notifikation) - Vue.js notification plugin.
-| :x: | issue | - [vue-notification](https://github.com/euvl/vue-notification) - Vue.js 2+ notification plugin using `Velocity` for animations.
-| :x: | issue | - [vs-notify](https://github.com/NxtChg/pieces/tree/master/js/vue/vs-notify) - Tiny but powerful notification component with no dependencies.
-| :x: | issue | - [vue2-notify](https://github.com/websmurf/vue2-notify) - Vue.js 2+ notification plugin.
-| :x: | issue | - [vue-notifyjs](https://github.com/cristijora/vue-notifyjs) - Minimalist, 3kb themable notification plugin
-| :x: | issue | - [vueup](https://github.com/chryb/vueup) - Simple, lightweight and elegant global notification popup for Vue.js
-| :x: | issue | - [vuex-flash](https://github.com/ahmed-dinar/vuex-flash) - Flash message component for VueJS 2.x within Vuex 2.x.
-| :x: | issue | - [vue-snotify](https://github.com/artemsky/vue-snotify) - Vue.js 2 Notification Center
-| :x: | issue | - [vue-notify-me](https://github.com/PygmySlowLoris/vue-notify-me) - Stackable notification Alert for Vue
-| :x: | issue | - [vue-noty](https://github.com/renoguyon/vuejs-noty) - A Vue.js 2 wrapper around Noty
-| :x: | issue | - [vue-notice](https://github.com/marcius-studio/vue-notice) - Vue.js 2 wrapper around Noty.js with native API
-| :x: | issue | - [vue-flash-message](https://github.com/keen-on-design/vue-flash-message) - Simple yet flexible notification plugin
-| :x: | issue | - [@voerro/vue-notifications](https://github.com/voerro/vue-notifications) - Simple Vue.js 2 notifications plugin with HTML and styling support.
-| :x: | issue | - [vue-awesome-notifications](https://github.com/f3oall/vue-awesome-notifications) - Lightweight Vue.js notification library with advanced async support.
-| :x: | issue | - [vue-izitoast](https://github.com/arthurvasconcelos/vue-izitoast) - A Vue.js 2 wrapper around IziToast.
-| :x: | issue | - [vue-toastr-2](https://github.com/saivarunk/vue-toastr-2) - Simple toast notifications for Vue.js built on [toastr](https://github.com/CodeSeven/toastr)
-| :x: | issue | - [vue-snack](https://github.com/zerodois/vue-snack) - A Vue.JS plugin for Snackbars based on Google Material.
-| :x: | issue | - [vue-m-message](https://github.com/mengdu/m-message) - A message plugin for vue.
-| :x: | issue | - [vue-notification-bell](https://github.com/Carrene/vue-notification-bell) - A Vue UI component for showing notifications.
-| :x: | issue | - [v-tostini](https://github.com/marverix/v-tostini) - Really plain toast notifications mechanism for Vue.js 2.x. No CSS included.
-| :x: | issue | - [vue-toast-notification](https://github.com/ankurk91/vue-toast-notification) - Yet another Vue.js Toast notification plugin.
-| :x: | issue | - [VueToastify](https://github.com/nandi95/vue-toastify) - A fuss free notification component.
-| :x: | issue | - [vue-toastification](https://github.com/Maronato/vue-toastification) - Light, easy and beautiful toasts for Vue
-| :x: | issue | - [@smartweb/vue-flash-message](https://github.com/smwbtech/vue-flash-message) - The component to display single flash message or multiple flash messages to user
-| :x: | issue | - [vue-notification](https://github.com/mathieustan/vue-notification) - A clean & nice notification system with Material Design style with a queue :new:
-| :x: | issue | - [Breadstick](https://github.com/codebender828/breadstick) - 🚀 A simple and flexible positioning, stacking and dismissal API for your custom Vue notifications.
-| :x: | issue | - [vuetify-toast-snackbar](https://github.com/eolant/vuetify-toast-snackbar) - Vue.JS toast service with queue support that uses Vuetify's "Snackbar" component.
-| :x: | issue | - [vue-toaster](https://github.com/MeForma/vue-toaster) - Vue.js toast notification plugin for Vue 3
-| :x: | issue | - [vue-notification-ui](https://github.com/HELMAB/vue-notification-ui) - A simple push the notification UI with Vue.js
-| :x: | issue | - [vue-my-toasts](https://github.com/Tahul/vue-my-toasts) - Provide your component and let us toast the rest.
+| :x: | no issue | - [vue-notifications](https://github.com/se-panfilov/vue-notifications) - Vue.js agnostic non-blocking notifications library.  
+| :x: | no issue | - [vue-easy-toast](https://github.com/noru/vue-easy-toast) - A toast plugin for vue/vue2.  
+| :x: | [issue](https://github.com/shakee93/vue-toasted/issues/186) | - [vue-toasted](https://github.com/shakee93/vue-toasted) - Responsive Touch Compatible Toast plugin for VueJS.  
+| :x: | no issue | - [vue-notifikation](https://github.com/happyCoda/vue-notifikation) - Vue.js notification plugin.  
+| :x: | [issue](https://github.com/euvl/vue-notification/issues/198) | - [vue-notification](https://github.com/euvl/vue-notification) - Vue.js 2+ notification plugin using `Velocity` for animations.  
+| :x: | no issue | - [vs-notify](https://github.com/NxtChg/pieces/tree/master/js/vue/vs-notify) - Tiny but powerful notification component with no dependencies.  
+| :x: | no issue | - [vue2-notify](https://github.com/websmurf/vue2-notify) - Vue.js 2+ notification plugin.  
+| :x: | no issue | - [vue-notifyjs](https://github.com/cristijora/vue-notifyjs) - Minimalist, 3kb themable notification plugin  
+| :x: | no issue | - [vueup](https://github.com/chryb/vueup) - Simple, lightweight and elegant global notification popup for Vue.js  
+| :x: | no issue | - [vuex-flash](https://github.com/ahmed-dinar/vuex-flash) - Flash message component for VueJS 2.x within Vuex 2.x.  
+| :x: | no issue | - [vue-snotify](https://github.com/artemsky/vue-snotify) - Vue.js 2 Notification Center   
+| :x: | no issue | - [vue-notify-me](https://github.com/PygmySlowLoris/vue-notify-me) - Stackable notification Alert for Vue  
+| :x: | no issue | - [vue-noty](https://github.com/renoguyon/vuejs-noty) - A Vue.js 2 wrapper around Noty
+| :x: | no issue | - [vue-notice](https://github.com/marcius-studio/vue-notice) - Vue.js 2 wrapper around Noty.js with native API  
+| :x: | no issue | - [vue-flash-message](https://github.com/keen-on-design/vue-flash-message) - Simple yet flexible notification plugin  
+| :x: | no issue | - [@voerro/vue-notifications](https://github.com/voerro/vue-notifications) - Simple Vue.js 2 notifications plugin with HTML and styling support.  
+| :x: | no issue | - [vue-awesome-notifications](https://github.com/f3oall/vue-awesome-notifications) - Lightweight Vue.js notification library with advanced async support.  
+| :x: | no issue | - [vue-izitoast](https://github.com/arthurvasconcelos/vue-izitoast) - A Vue.js 2 wrapper around IziToast.  
+| :x: | no issue | - [vue-toastr-2](https://github.com/saivarunk/vue-toastr-2) - Simple toast notifications for Vue.js built on [toastr](https://github.com/CodeSeven/toastr)  
+| :x: | archived | - [vue-snack](https://github.com/zerodois/vue-snack) - A Vue.JS plugin for Snackbars based on Google Material.  
+| :x: | no issue | - [vue-m-message](https://github.com/mengdu/m-message) - A message plugin for vue.  
+| :x: | no issue | - [vue-notification-bell](https://github.com/Carrene/vue-notification-bell) - A Vue UI component for showing notifications.  
+| :x: | no issue | - [v-tostini](https://github.com/marverix/v-tostini) - Really plain toast notifications mechanism for Vue.js 2.x. No CSS included.
+| :x: | [issue](https://github.com/ankurk91/vue-toast-notification/issues/32) | - [vue-toast-notification](https://github.com/ankurk91/vue-toast-notification) - Yet another Vue.js Toast notification plugin.  
+| :x: | no issue | - [VueToastify](https://github.com/nandi95/vue-toastify) - A fuss free notification component.  
+| :x: | no issue | - [vue-toastification](https://github.com/Maronato/vue-toastification) - Light, easy and beautiful toasts for Vue  
+| :x: | no issue | - [@smartweb/vue-flash-message](https://github.com/smwbtech/vue-flash-message) - The component to display single flash message or multiple flash messages to user  
+| :x: | no issue | - [vue-notification](https://github.com/mathieustan/vue-notification) - A clean & nice notification system with Material Design style with a queue :new:  
+| :x: | no issue | - [Breadstick](https://github.com/codebender828/breadstick) - 🚀 A simple and flexible positioning, stacking and dismissal API for your custom Vue notifications.  
+| :x: | no issue | - [vuetify-toast-snackbar](https://github.com/eolant/vuetify-toast-snackbar) - Vue.JS toast service with queue support that uses Vuetify's "Snackbar" component.  
+|  :white_check_mark:  | MIT | - [vue-toaster](https://github.com/MeForma/vue-toaster) - Vue.js toast notification plugin for Vue 3   
+| :x: | no issue | - [vue-notification-ui](https://github.com/HELMAB/vue-notification-ui) - A simple push the notification UI with Vue.js
+| :x: | no issue | - [vue-my-toasts](https://github.com/Tahul/vue-my-toasts) - Provide your component and let us toast the rest.  
 
 #### Loader
 
