@@ -16,10 +16,10 @@
   | :x: | no issue | - [vue-materialize-datatable](https://github.com/MicroDroid/vue-materialize-datatable) - VueJS datatable for Materialize CSS  
   | :x: | [issue](https://github.com/xaksis/vue-good-table/issues/758) | - [vue-good-table](https://github.com/xaksis/vue-good-table) - An easy to use, VueJS (2.x) table plugin with sorting, column filtering, pagination etc.  
   | :x: | no issue | - [vue-grid](https://github.com/dzwillia/vue-grid) - A flexible grid component for Vue.js
-  | :x: | no issue | - [vue-easytable](https://github.com/huangshuwei/vue-easytable) - A powerful table components based on Vue2.x
-  | :x: | no issue | - [vue2-datatable-component](https://github.com/OneWayTech/vue2-datatable) - The best Datatable for Vue.js 2.x which never sucks
+  | :x: | no issue | - [vue-easytable](https://github.com/huangshuwei/vue-easytable) - A powerful table components based on Vue2.x  
+  | :x: | no issue | - [vue2-datatable-component](https://github.com/OneWayTech/vue2-datatable) - The best Datatable for Vue.js 2.x which never sucks  
   | :x: | no issue | - [vue-js-grid](https://github.com/euvl/vue-js-grid) - Vue.js 2.x responsive grid system with smooth sorting, drag-n-drop and reordering
-  | :x: | [issue](https://github.com/handsontable/vue-handsontable-official/issues/196) | - [vue-handsontable-official](https://github.com/handsontable/vue-handsontable-official) A Vue.js wrapper for the Handsontable spreadsheet component 
+  | :x: | [issue](https://github.com/handsontable/vue-handsontable-official/issues/196) | - [vue-handsontable-official](https://github.com/handsontable/vue-handsontable-official) A Vue.js wrapper for the Handsontable spreadsheet component  
   | :x: | no issue | - [vue-grid](https://github.com/liqueflies/vue-grid) - A powerful flexbox grid system for Vue.js 2.x, built with inline-styles  
   | :x: | no issue | - [vue-data-tablee](https://github.com/VitorLuizC/vue-data-tablee) - Based on vue-good-table, a simple and pretty table component  
   | :white_check_mark: | MIT | - [vue-scrolling-table](https://github.com/richardtallent/vue-scrolling-table) - Simple table component with flexbox sizing, scrolled table body (horizontal and vertical), slots for all tr/th/td rendering.  
