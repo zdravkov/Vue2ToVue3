@@ -31,10 +31,10 @@
   | :x: | no issue | - [vue-table-component](http://vue-table-component.spatie.be/) - A straight to the point Vue component to display tables.  
   | :x: | no issue | - [@lossendae/vue-table](https://lossendae.github.io/vue-table) - Simple table component for Vue.js 2.x with pagination and sortable columns.  
   | :x: | no issue | - [el-data-table](https://github.com/FEMessage/el-data-table) - base on element-ui, makes crud easily  
-  | :x: | deprеcated | - [DevExtreme Vue Grid](https://devexpress.github.io/devextreme-reactive/vue/grid/) - High-performance plugin-based Vue data grid for Bootstrap.
+  | :x: | deprеcated | - [DevExtreme Vue Grid](https://devexpress.github.io/devextreme-reactive/vue/grid/) - High-performance plugin-based Vue data grid for Bootstrap.  
   | :x: | no issue | - [vue-ads-table-tree](https://github.com/arnedesmedt/vue-ads-table-tree) - A vue Table component, with filtering, sorting and pagination. Rows can have child rows, so a tree structure can be build. It also   supports async calls to load rows from the backend. It's built with the css framework `tailwindcss`  
   | :x: | no issue | - [@marketconnect/vue-pivot-table](https://github.com/MarketConnect/vue-pivot-table) - A vue component for pivot table  
-  | :x: | no issue | - [vue-teible](https://github.com/hiendv/teible) - Lightweight and flexible table component for the web :zap:
+  | :x: | no issue | - [vue-teible](https://github.com/hiendv/teible) - Lightweight and flexible table component for the web :zap:  
   | :x: | no issue | - [vue-jqxgrid](https://github.com/jqwidgets/vue/tree/master/grid) - Vue data grid with filtering, sorting, editing, grouping, data export and other features.  
   | :x: | no issue | - [vue-jqxpivotgrid](https://github.com/jqwidgets/vue/tree/master/pivotgrid) - Vue pivot data grid with pivot designer, drill through cells, pivot functions.  
   | :x: | archived | - [toast-ui.vue-grid](https://github.com/nhnent/toast-ui.vue-grid) - Vue Wrapper for [TOAST UI Grid](http://ui.toast.com/tui-grid/).  
@@ -45,14 +45,14 @@
   | :x: | no issue | - [@myena/vue-table](https://github.com/myENA/vue-table) - Table Components for Client/Server data handling. Filter, sort, paginate, group, expanding details row. Highly customizible via slots for filter, headers, column, pagination, details row.  
 | :x: | no issue | - [vue-jd-table](https://github.com/jamesdruhan/vue-jd-table) - Advanced and flexible data table component for Vue 2. Feature Rich: search, filtering, exporting, pagination (traditional and virtual scroll) and so much more!  
 | :x: | no issue | - [iview-table-page](https://github.com/MengFangui/iview-table-page) - Combines Table and Page components of iview UI together. Based on Vue 2.x. And Hear are some examples to use iview-table-page.  
-| :x: | no issue | - [fancy-grid-vue](https://github.com/FancyGrid/FancyGrid) - Vue adaptor for FancyGrid.
+| :x: | no issue | - [fancy-grid-vue](https://github.com/FancyGrid/FancyGrid) - Vue adaptor for FancyGrid.  
 | :x: | no issue | - [vue-table-dynamic](https://github.com/TheoXiong/vue-table-dynamic) - A dynamic table with sorting, filtering, editing, pagination, multiple select, etc.  
 | :x: | no issue | - [vue-quintable](https://github.com/Quintetio/vue-quintable) - A responsive and highly configurable table based on Vue 2.x and Bootstrap 4.x  
 |  :white_check_mark: | MIT | - [vue-grid-responsive](https://github.com/andrelmlins/vue-grid-responsive) - Responsive grid system based on Bootstrap for Vue 2.x.  
 | :x: | no issue | - [vue-js-datatable](https://github.com/Parthfaladu/vue-js-datatable) - VueJS light weight wrapper datatable component for [datatables.net](https://datatables.net)  
 | :x: | no issue | - [bee-grid-table](https://github.com/jiahengaa/BeeGridTable) -BeeGridTable , is a Highly Customizable Table UI component library based on Vue.js. Rich functions、More efficient、Easy to use!
 | :x: | no issue | - [vue-datagrid](https://github.com/revolist/vue-datagrid) - Vue grid wrapper for powerful webcomponent revo-grid with excel like rich edit and behavior.  
-| :x: | no issue | - [element-ui-sticky-table](https://github.com/iendeavor/element-ui-sticky-table) - Sticky for element-ui table 
+| :x: | no issue | - [element-ui-sticky-table](https://github.com/iendeavor/element-ui-sticky-table) - Sticky for element-ui table  
 |  :white_check_mark: | commercial | - [Kendo UI for Vue Grid](https://www.telerik.com/kendo-vue-ui/components/grid/) - Virtualization, Grouping, Paging, Filtering, Editing, Selection, Excel Export, PDF Export, Accessibility, Globalization, 
 
 #### Notification
