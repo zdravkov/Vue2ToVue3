@@ -211,25 +211,25 @@ Overlay / modal / alert / dialog / lightbox / popup_
 
 #### Icons
 
-| :x: | no issue | - [vue-awesome](https://github.com/Justineo/vue-awesome) - Font Awesome component for Vue.js, using inline SVG.  
-| :x: | no issue | - [vue-material-design-icons](https://github.com/robcresswell/vue-material-design-icons "vue-material-design-icons on GitHub") - A collection of SVG Material Design icons as single file components.  
+| :x: | [issue](https://github.com/Justineo/vue-awesome/issues/180) | - [vue-awesome](https://github.com/Justineo/vue-awesome) - Font Awesome component for Vue.js, using inline SVG.  
+| :x: | [issue](https://github.com/robcresswell/vue-material-design-icons/issues/230) | - [vue-material-design-icons](https://github.com/robcresswell/vue-material-design-icons "vue-material-design-icons on GitHub") - A collection of SVG Material Design icons as single file components.  
 | :x: | no issue | - [vue-icon-font](https://github.com/ganl/vue-icon-font) - A iconfont plugin for Vuejs (support Font-class and Symbol).  
 | :x: | no issue | - [vue-ionicons](https://github.com/mazipan/vue-ionicons) - Vue Icon Set Components from Ionic Team.  
 | :x: | no issue | - [vue-ico](https://github.com/paulcollett/vue-ico) - Dead easy icons for Vue with drop-in browser support & selective bundling  
-| :x: | no issue | - [mdi-vue](https://github.com/therufa/mdi-vue) - Material Design Icon components for Vuejs  
-| :x: | no issue | - [vue-fontawesome](https://github.com/FortAwesome/vue-fontawesome) - Font Awesome 5 Vue component  
+| :white_check_mark: | MIT | - [mdi-vue](https://github.com/therufa/mdi-vue) - Material Design Icon components for Vuejs  
+| :x: | [issue](https://github.com/FortAwesome/vue-fontawesome/issues/230)| - [vue-fontawesome](https://github.com/FortAwesome/vue-fontawesome) - Font Awesome 5 Vue component  
 | :x: | no issue | - [g-icon](https://github.com/nash403/g-icon) - Simple icon component for your svg icons (compatible with Font Awesome-like font toolkits)  
 | :x: | no issue | - [vue-simple-line-icons](https://github.com/nkoik/vue-simple-line-icons) - Simple Line Icons component for Vuejs  
-| :x: | no issue | - [vue-country-flag](https://github.com/P3trur0/vue-country-flag) - Vue component for country flag icons  
+| :white_check_mark: | MIT | - [vue-country-flag](https://github.com/P3trur0/vue-country-flag) - Vue component for country flag icons  
 | :x: | no issue | - [vicon](https://github.com/Lt0/vicon) - Vicon is an simple iconfont component for vue.  
 | :x: | no issue | - [md-svg-vue](https://github.com/IPRIT/md-svg-vue) - Material Design Icons by Google for Vue.js & Nuxt.js (server-side support (with caching), inline svg rendering, official icon names)  
 | :x: | no issue | - [vue-lang-code-flags](https://github.com/qWici/vue-lang-code-flags) - Vue component which shows the flag of the country from which the language comes from  
 | :x: | no issue | - [vue-zondicons](https://github.com/TerryMooreII/vue-zondicons) - Vue component for the beautiful [Zondicon](http://www.zondicons.com/icons.html) svg icons  
 | :x: | no issue | - [vue-eva-icons](https://github.com/antonreshetov/vue-eva-icons) - Simply beautiful open source eva icons as Vue components.  
-| :x: | no issue | - [vue-unicons](https://github.com/antonreshetov/vue-unicons) - 1000+ Pixel-perfect svg unicons for your next project as Vue components.  
-| :x: | no issue | - [vue-fa](https://github.com/Cweili/vue-fa) - Simple FontAwesome 5 Vue.js 2 component.  
+| :x: | [issue](https://github.com/antonreshetov/vue-unicons/issues/39) | - [vue-unicons](https://github.com/antonreshetov/vue-unicons) - 1000+ Pixel-perfect svg unicons for your next project as Vue components.  
+| :white_check_mark: | MIT | - [vue-fa](https://github.com/Cweili/vue-fa) - Simple FontAwesome 5 Vue.js 2 component.  
 | :x: | no issue | - [vue-cryptoicon](https://github.com/man15h/vue-cryptoicon) - Beautiful pixel perfect 400+ cryptocurrency and 10+ Fiat currency icon.  
-| :x: | no issue | - [vue-hero-icons](https://github.com/matschik/vue-hero-icons) - A set of high-quality SVG icons, sourced from [@refactoringui/heroicons](https://github.com/refactoringui/heroicons), as Vue functional components.  
+| :x: | [issue](https://github.com/matschik/vue-hero-icons/issues/156) | - [vue-hero-icons](https://github.com/matschik/vue-hero-icons) - A set of high-quality SVG icons, sourced from [@refactoringui/heroicons](https://github.com/refactoringui/heroicons), as Vue functional components.  
 | :x: | no issue | - [vue-heroicons](https://github.com/Kholid060/vue-heroicons) - Vue component for 104 premium [Heroicons UI](https://github.com/sschoger/heroicons-ui) svg icons  
 | :x: | no issue | - [vue-tabler-icons](https://github.com/alex-oleshkevich/vue-tabler-icons) - Vue components for [Tabler Icons](https://github.com/tabler/tabler-icons) SVG icons.  
 
@@ -257,7 +257,7 @@ Overlay / modal / alert / dialog / lightbox / popup_
 | :x: | no issue | - [vue-simple-search-dropdown](https://github.com/romainsimon/vue-simple-search-dropdown) - A simple searchable input dropdown component with no external dependency  
 | :x: | no issue | - [@innologica/vue-dropdown-menu](https://github.com/Innologica/vue-dropdown-menu) - Dropdown menu component for Vue. Any element can be dropdown trigger and anything can be dropded down content.  
 | :x: | no issue | - [vue-menu-aim](https://github.com/Dimon24021993/vue-menu-aim) - Menu triangle select, aka Amazon  
-| :x: | no issue | - [vue-stripe-menu](https://github.com/Alexeykhr/vue-stripe-menu) - Creating a navigation menu with animations like on Stripe  
+| :x: | [issue](https://github.com/Alexeykhr/vue-stripe-menu/issues/196) | - [vue-stripe-menu](https://github.com/Alexeykhr/vue-stripe-menu) - Creating a navigation menu with animations like on Stripe  
 | :x: | no issue | - [vue-burger-button](https://github.com/VitorLuizC/vue-burger-button) - A pretty simple Vue functional component for menu burger buttons.  
 | :x: | no issue | - [@satmaxt/sidebar-menu-drawer](https://github.com/satriaajiputra/sidebar-menu-drawer) - A simple interactive sidebar menu drawer and easy to implement  
 | :x: | no issue | - [vue-file-toolbar-menu](https://github.com/motla/vue-file-toolbar-menu) - UI file/toolbar menus for Vue apps  
@@ -274,23 +274,23 @@ Overlay / modal / alert / dialog / lightbox / popup_
 
 | :x: | no issue | - [vue-easy-slider](https://github.com/shhdgit/vue-easy-slider) - Slider Component of Vue.js.
 | :x: | no issue | - [vue-l-carousel](https://github.com/lsycxyj/vue-l-carousel) - A responsive carousel(namely slider or swiper) component for Vue.js v2.x+.  
-| :x: | no issue | - [vue-awesome-swiper](https://github.com/surmon-china/vue-awesome-swiper) - Swiper(slide) component for Vue.js(1.x ~ 2.x).  
+| :x: | [issue](https://github.com/surmon-china/vue-awesome-swiper/issues/726) | - [vue-awesome-swiper](https://github.com/surmon-china/vue-awesome-swiper) - Swiper(slide) component for Vue.js(1.x ~ 2.x).  
 | :x: | no issue | - [vue-lory](https://github.com/vue-bulma/lory) - Vue Slider Component based on lory.  
 | :x: | no issue | - [vue-slick](https://github.com/staskjs/vue-slick) - Vue component for Slick-carousel.  
 | :x: | no issue | - [vue-flickity](https://github.com/drewjbartlett/vue-flickity) - A Vue Component for Flickity.js.  
-| :x: | no issue | - [vue-carousel-3d](https://github.com/wlada/vue-carousel-3d) - Vue Carousel 3D - Beautiful, flexible and touch supported 3D Carousel for Vue.js.  
+| :x: | [issue](https://github.com/Wlada/vue-carousel-3d/issues/168) | - [vue-carousel-3d](https://github.com/wlada/vue-carousel-3d) - Vue Carousel 3D - Beautiful, flexible and touch supported 3D Carousel for Vue.js.  
 | :x: | no issue | - [vue-carousel](https://github.com/SSENSE/vue-carousel) - A flexible, responsive, touch-friendly carousel for Vue.js.  
 | :x: | no issue | - [vue-coverflow](https://github.com/OrangeXC/vue-coverflow) - A vue2.x coverflow component.  
 | :x: | no issue | - [vue-agile](https://github.com/lukaszflorczak/vue-agile) – A carousel component inspired by Slick, written in Vue.js and vanilla JS only.  
-| :x: | no issue | - [vue-tiny-slider](https://github.com/viktorlarsson/vue-tiny-slider) – A carousel component created by ganlanyuan, written in Vue.js. No jQuery. Works in IE8+.  
+| :x: | [issue](https://github.com/viktorlarsson/vue-tiny-slider/issues/70) | - [vue-tiny-slider](https://github.com/viktorlarsson/vue-tiny-slider) – A carousel component created by ganlanyuan, written in Vue.js. No jQuery. Works in IE8+.  
 | :x: | no issue | - [vue2-text-swimlane](https://github.com/mubaidr/vue-swimlane) - A Text Swimlane plugin for Vue.js  
 | :x: | no issue | - [vue-picture-swipe](https://github.com/rap2hpoutre/vue-picture-swipe) - Vue Picture Swipe Gallery (a gallery of image with thumbnails, lazy-load and swipe) backed by photoswipe.  
 | :x: | no issue | - [vue2-siema](https://github.com/sainf/vue2-siema) - Plugin wrapper for the very tiny Siema carousel/slider library.  
 | :x: | no issue | - [vue-flux](https://github.com/deulos/vue-flux) - Image slider which comes with 20 cool transitions.  
-| :x: | no issue | - [vue-glide](https://github.com/antonreshetov/vue-glide) - Vue slider & carousel component on top of the [Glide.js](https://github.com/glidejs/glide)  
+| :x: | [issue](https://github.com/antonreshetov/vue-glide/issues/55) | - [vue-glide](https://github.com/antonreshetov/vue-glide) - Vue slider & carousel component on top of the [Glide.js](https://github.com/glidejs/glide)  
 | :x: | no issue | - [vue-owl-carousel](https://github.com/s950329/vue-owl-carousel) - Vue component for [Owl Carousel 2](https://owlcarousel2.github.io/OwlCarousel2/)  
-| :x: | no issue | - [vueper-slides](https://github.com/antoniandre/vueper-slides) - A touch ready and responsive slideshow / carousel for Vue JS.  
-| :x: | no issue | - [Hooper](https://github.com/baianat/hooper) - Customizable accessible carousel slider optimized for Vue  
+| :white_check_mark: | MIT | - [vueper-slides](https://github.com/antoniandre/vueper-slides) - A touch ready and responsive slideshow / carousel for Vue JS.  
+| :x: | [issue](https://github.com/baianat/hooper/issues/197) | - [Hooper](https://github.com/baianat/hooper) - Customizable accessible carousel slider optimized for Vue  
 | :x: | no issue | - [Lingallery](https://github.com/ChristophAnastasiades/Lingallery) - Simple image gallery component for Vue which displays a large image with thumbnails below  
 | :x: | no issue | - [vue-piece-slider](https://github.com/dreambo8563/vue-piece-slider) - Animated slides in a fragmented look  
 | :x: | no issue | - [vue2-photo-carousel](https://github.com/leepyng/vue2-photo-carousel) - A photo carousel component for Vue2  
@@ -299,56 +299,56 @@ Overlay / modal / alert / dialog / lightbox / popup_
 | :x: | no issue | - [vue-cat-carousel](https://github.com/hanssagita/vue-cat-carousel) - Lightweight, simple and customizable for Vue Js  
 | :x: | no issue | - [@egjs/vue-flicking](https://github.com/naver/egjs-flicking/tree/master/packages/vue-flicking) - It's reliable, flexible and extendable carousel for Vue.js 2.  
 | :x: | no issue | - [slither-slider](https://github.com/dolbex/slither-slider) - Carousel for images, videos, or components. Throw pretty much anything you want at it.  
-| :x: | no issue | - [vue-slick-carousel](https://github.com/gs-shop/vue-slick-carousel) - A carousel with slick features & SSR support written for faster Luxstay  
+| :x: | [issue](https://github.com/gs-shop/vue-slick-carousel/issues/151) | - [vue-slick-carousel](https://github.com/gs-shop/vue-slick-carousel) - A carousel with slick features & SSR support written for faster Luxstay  
 | :x: | no issue | - [@jfm/vue-carousel](https://github.com/jiangfengming/vue-carousel) - A Vue carousel component.  
-| :x: | no issue | - [vue-snap](https://github.com/bartdominiak/vue-snap) - Lightweight Carousel based on Scroll Snap CSS  
+| :white_check_mark: | MIT | - [vue-snap](https://github.com/bartdominiak/vue-snap) - Lightweight Carousel based on Scroll Snap CSS  
 | :x: | no issue | - [vuerollr](https://github.com/japick/vuerollr) - Mouseover gallery plugin for Vue.js. Supports image and video.  
 | :x: | no issue | - [vue-splide](https://github.com/Splidejs/vue-splide) - Splide is a free lightweight but powerful slider and carousel, written in pure JavaScript without any dependencies. It supports a thumbnail slider, nested slide.  
-| :x: | no issue | - [swiper](https://github.com/nolimits4web/swiper) - Swiper 6 added official support for Vue.js (only 3.x).  
+| :white_check_mark: | MIT | - [swiper](https://github.com/nolimits4web/swiper) - Swiper 6 added official support for Vue.js (only 3.x).  
 
 #### Charts
 
 | :x: | no issue | - [vue-morris](https://github.com/bbonnin/vue-morris) - VueJS component wrapping Morris.js.  
-| :x: | no issue | - [vue-chartjs](https://github.com/apertureless/vue-chartjs) - Vue.js wrapper for Chart.js.  
+| :x: | [issue](https://github.com/apertureless/vue-chartjs/issues/637) | - [vue-chartjs](https://github.com/apertureless/vue-chartjs) - Vue.js wrapper for Chart.js.  
 | :x: | no issue | - [hchs-vue-charts](https://github.com/hchstera/vue-charts) - Based on Vue2.0 wrapper for ChartJs.  
-| :x: | no issue | - [vue-echarts](https://github.com/Justineo/vue-echarts) - ECharts component for Vue.js.  
+| :x: | [issue](https://github.com/ecomfe/vue-echarts/issues/476) | - [vue-echarts](https://github.com/Justineo/vue-echarts) - ECharts component for Vue.js.  
 | :x: | no issue | - [vuetrend](https://github.com/QingWei-Li/vue-trend) - Simple, elegant spark lines for Vue.js.  
-| :x: | no issue | - [vue-highcharts](https://github.com/weizhenye/vue-highcharts) - Highcharts component for Vue.  
+| :white_check_mark: | MIT | - [vue-highcharts](https://github.com/weizhenye/vue-highcharts) - Highcharts component for Vue.  
 | :x: | no issue | - [vue-echarts-v3](https://github.com/xlsdg/vue-echarts-v3) - Vue.js(v2.x+) component wrap for ECharts.js(v3.x+).  
 | :x: | no issue | - [vue-chartist](https://github.com/lakb248/vue-chartist) - Vue.js 2.0 component wrap for Chartist.  
 | :x: | no issue | - [vuebars](https://github.com/DeviaVir/vue-bar) - Simple, elegant spark bars for Vue.js.  
-| :x: | no issue | - [vue-d3-network](https://github.com/emiliorizzo/vue-d3-network) - Vue component to graph networks using d3-force  
-| :x: | no issue | - [vue2vis](https://github.com/alexcode/vue2vis) - Vue2 wrapper for [Visjs](http://visjs.org).  
+| :x: | [issue](https://github.com/emiliorizzo/vue-d3-network/issues/70) | - [vue-d3-network](https://github.com/emiliorizzo/vue-d3-network) - Vue component to graph networks using d3-force  
+| :x: | [issue](https://github.com/alexcode/vue2vis/issues/67) | - [vue2vis](https://github.com/alexcode/vue2vis) - Vue2 wrapper for [Visjs](http://visjs.org).  
 | :x: | no issue | - [vue-c3](https://github.com/chryb/vue-c3) - A reusable vue component for c3 charts  
 | :x: | no issue | - [vue-d2b](https://github.com/d2bjs/vue-d2b) - Vue components for d2b charts. (Including axis, pie, sankey, and sunburst charts)  
 | :x: | no issue | - [VueChart](https://github.com/SeregPie/VueChart) - A very simple Vue wrapper for Chart.  
-| :x: | no issue | - [vue-chartkick](https://github.com/ankane/vue-chartkick) - Create beautiful JavaScript charts with one line of Vue  
+| :white_check_mark: | MIT | - [vue-chartkick](https://github.com/ankane/vue-chartkick) - Create beautiful JavaScript charts with one line of Vue  
 | :x: | no issue | - [d3vue](https://github.com/ignoreintuition/d3vue) - A D3 Plugin for Creating Reactive Data Visualizations in VueJS  
-| :x: | no issue | - [vue2-frappe](https://github.com/JustSteveKing/vue2-frappe) - A simple wrapper around Frappe Charts for VueJS  
-| :x: | no issue | - [vue-google-charts](https://github.com/devstark-com/vue-google-charts) - Reactive Vue.js wrapper for Google Charts lib  
+| :x: | [issue](https://github.com/JustSteveKing/vue2-frappe/issues/41) | - [vue2-frappe](https://github.com/JustSteveKing/vue2-frappe) - A simple wrapper around Frappe Charts for VueJS  
+| :x: | [issue](https://github.com/devstark-com/vue-google-charts/issues/93) | - [vue-google-charts](https://github.com/devstark-com/vue-google-charts) - Reactive Vue.js wrapper for Google Charts lib  
 | :x: | no issue | - [vue-graph](https://github.com/juijs/vue-graph) - Data visualization library for dashboard implementation in Vue.js  
 | :x: | no issue | - [vue.d3.sunburst](https://github.com/David-Desmaisons/Vue.D3.sunburst) - Reactive sunburst component based on D3.js  
 | :x: | no issue | - [v-chart-plugin](https://github.com/ignoreintuition/v-chart-plugin) - A customizable component for adding D3 charts that binds to your components data.  
 | :x: | no issue | - [vue-jqxchart](https://github.com/jqwidgets/vue/tree/master/chart) - Charting component with Pie, Bubble, Donut, Line, Bar, Column, Area, Waterfall, Polar & Spider series.  
 | :x: | no issue | - [toast-ui.vue-chart](https://github.com/nhnent/toast-ui.vue-chart) - Vue Wrapper for [TOAST UI Chart](http://ui.toast.com/tui-chart/).  
-| :x: | no issue | - [vue-apexcharts](https://github.com/apexcharts/vue-apexcharts) - Vue.js component for [ApexCharts](https://github.com/apexcharts/apexcharts.js).  
+| :x: | [issue](https://github.com/apexcharts/vue-apexcharts/issues/324) | - [vue-apexcharts](https://github.com/apexcharts/vue-apexcharts) - Vue.js component for [ApexCharts](https://github.com/apexcharts/apexcharts.js).  
 | :x: | no issue | - [vue-doughnut-chart](https://github.com/mazipan/vue-doughnut-chart) - Doughnut chart component for Vue.js.  
-| :x: | no issue | - [v-charts](https://github.com/ElemeFE/v-charts) - Chart components based on Vue2.x and Echarts.  
-| :x: | no issue | - [vue-css-donut-chart](https://github.com/dumptyd/vue-css-donut-chart) - Lightweight Vue component for drawing pure CSS donut charts.  
+| :x: | [issue](https://github.com/ElemeFE/v-charts/issues/876) | - [v-charts](https://github.com/ElemeFE/v-charts) - Chart components based on Vue2.x and Echarts.  
+| :x: | [issue](https://github.com/dumptyd/vue-css-donut-chart/issues/44) | - [vue-css-donut-chart](https://github.com/dumptyd/vue-css-donut-chart) - Lightweight Vue component for drawing pure CSS donut charts.  
 | :x: | no issue | - [vue-trend-chart](https://github.com/dmtrbrl/vue-trend-chart) - Simple trend charts for Vue.js  
 | :x: | no issue | - [vueplotlib](https://github.com/keller-mark/vueplotlib) - Declarative, interactive, linked plot components  
 | :x: | no issue | - [vgauge](https://github.com/amroessam/vgauge) - A Vue Wrapper to GaugeJS - Create beautiful gauges  
 | :x: | no issue | - [vue-plotly](https://github.com/David-Desmaisons/vue-plotly) - Wrapper for [plotly.js](https://plot.ly/javascript/) declarative charting library that ships with 20 chart types, including 3D charts, statistical graphs, and SVG maps.  
 | :x: | no issue | - [vue-funnel-graph-js](https://github.com/greghub/vue-funnel-graph-js) - Funnel graph drawing library for Vue.js. Create vertical and horizontal animated SVG funnel charts and add labels, values, legend and other info.  
-| :x: | no issue | - [pure-vue-chart](https://github.com/djaxho/pure-vue-chart) - Lightweight vue charts implemented without any chart library dependencies  
+| :x: | [issue](https://github.com/djaxho/pure-vue-chart/issues/35) | - [pure-vue-chart](https://github.com/djaxho/pure-vue-chart) - Lightweight vue charts implemented without any chart library dependencies  
 | :x: | no issue | - [f2-vue](https://github.com/justice47/f2-vue) - Vue wrapper of f2 - elegant, interactive and flexible mobile chart library  
 | :x: | no issue | - [ZingChart-Vue](https://github.com/zingchart/zingchart-vue) - Vue component made by ZingChart with 35+ chart types.  
 | :x: | no issue | - [jscharting-vue](https://github.com/jscharting/jscharting-vue) - Vue chart component offering a complete set of chart types and engaging data visualizations with [JSCharting](https://jscharting.com/).  
 | :x: | no issue | - [flowchart-vue](https://github.com/joyceworks/flowchart-vue) - Flowchart & Flowchart designer component for Vue.js.  
 | :x: | no issue | - [vue-d3-barchart](https://github.com/emiliorizzo/vue-d3-barchart) - Small component to draw charts using d3.  
-| :x: | no issue | - [vue3-highcharts](https://github.com/smithalan92/vue3-highcharts) - A Highcharts.JS wrapper component for Vue 3  
-| :x: | no issue | - [echarts-for-vue](https://github.com/ambit-tsai/echarts-for-vue) - ECharts Wrapper Component For Vue 3 and 2  
-| :x: | no issue | - [vue3-chart-v2](https://github.com/vutran6853/vue3-chart-v2) - Vue wrapper component base on Chart.JS for Vue 3  
+| :white_check_mark: | MIT | - [vue3-highcharts](https://github.com/smithalan92/vue3-highcharts) - A Highcharts.JS wrapper component for Vue 3  
+| :white_check_mark: | Apache-2.0 License | - [echarts-for-vue](https://github.com/ambit-tsai/echarts-for-vue) - ECharts Wrapper Component For Vue 3 and 2  
+| :white_check_mark: | no issue | - [vue3-chart-v2](https://github.com/vutran6853/vue3-chart-v2) - Vue wrapper component base on Chart.JS for Vue 3  
 | :x: | no issue | - [vue-gauge](https://github.com/chrisheanan/vue-gauge) - Vue.js component to create animated svg gauge charts  
 #### Time
 
