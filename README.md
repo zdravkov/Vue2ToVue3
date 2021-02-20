@@ -433,21 +433,21 @@ Display non-editable events in a Calendar_
 | :x: | no issue | - [vue-dplayer](https://github.com/sinchang/vue-dplayer) - A Vue 2.x video player component based on DPlayer.  
 | :x: | no issue | - [vue-canvasvideo](https://github.com/chrishurlburt/vue-canvasvideo) - A Vue 2.x component for video backgrounds and autoplay video on iOS/Safari.  
 | :x: | no issue | - [vue-music](https://github.com/petsgre/music) - A Vue component base on html5 `<audio>`.  
-| :x: | no issue | - [vue-audio-visual](https://github.com/staskobzar/vue-audio-visual) - Vue HTML5 audio visualization components.  
-| :x: | no issue | - [vue-plyr](https://github.com/redxtech/vue-plyr) - A set of Vue components for the plyr video & audio player.  
+| :x: | [issue](https://github.com/staskobzar/vue-audio-visual/issues/68) | - [vue-audio-visual](https://github.com/staskobzar/vue-audio-visual) - Vue HTML5 audio visualization components.  
+| :white_check_mark: | no issue | - [vue-plyr](https://github.com/redxtech/vue-plyr) - A set of Vue components for the plyr video & audio player.  
 | :x: | no issue | - [v-playback](https://github.com/TerryZ/v-playback) - A Vue2 plugin to make video play easier.  
 | :x: | no issue | - [vue-audio-recorder](https://github.com/grishkovelli/vue-audio-recorder) - Audio recorder for Vue.js. It allows to create, play, download and store records on a server  
 | :x: | no issue | - [vue-video-section](https://github.com/johndatserakis/vue-video-section) - A simple video header/section component for Vue. Good for video backgrounds and overlaying content on them.  
-| :x: | no issue | - [vue-waveform](https://github.com/chenqiaoen521/vue-waveform) -It is use canvas waveform audio player wavesurfer component contains timeline bar line for Vue 2.x  
-| :x: | no issue | - [vue-responsive-video-background-player](https://github.com/avidofood/vue-responsive-video-background-player) - Play your own videos in background responsively in different resolutions.  
+| :x: | MIT | - [vue-waveform](https://github.com/chenqiaoen521/vue-waveform) -It is use canvas waveform audio player wavesurfer component contains timeline bar line for Vue 2.x  
+| :white_check_mark: | no issue | - [vue-responsive-video-background-player](https://github.com/avidofood/vue-responsive-video-background-player) - Play your own videos in background responsively in different resolutions.  
 | :x: | no issue | - [vue-h5-audio-controls](https://github.com/cycjimmy/vue-h5-audio-controls) - A simple h5 music controller for Vue.  
 | :x: | no issue | - [xns-audio-player-simple](https://github.com/xinnks/xns-audio-player-simple) - A light and customizable Vue 2.x audio player powered HTMLAudioElement.  
-| :x: | no issue | - [vue-core-video-player](https://github.com/core-player/vue-core-video-player) - A Lightweight Video Player For Vue.js  
+| :white_check_mark:| [Vue3](https://github.com/LarchLiu/vue3-video-player/)  | - [vue-core-video-player](https://github.com/core-player/vue-core-video-player) - A Lightweight Video Player For Vue.js  
 | :x: | no issue | - [vue-player](https://github.com/algoz098/vue-player) - A simple html5 video player with img placeholder for Vue 2.x.  
 | :x: | no issue | - [vue-audio-better](https://github.com/forijk/vue-audio-better) - Easy to create custom audio player components for Vue 2.x. A progress bar with soul.  
-| :x: | no issue | - [vue-sounds](https://github.com/redcodemohammed/vue-sounds) - Easy to add sounds to your components.  
+| :x: | no issue| - [vue-sounds](https://github.com/redcodemohammed/vue-sounds) - Easy to add sounds to your components.  
 | :x: | no issue | - [vue-soundcloud-player](https://github.com/matswainson/vue-soundcloud-player) - A custom Soundcloud player supporting single tracks & playlists  
-| :x: | no issue | - [vue-use-sound](https://github.com/Tahul/vue-use-sound) - A Vue Hook for playing sound effects.   
+| :white_check_mark: | MIT | - [vue-use-sound](https://github.com/Tahul/vue-use-sound) - A Vue Hook for playing sound effects.   
 
 #### Infinite Scroll
 
