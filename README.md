@@ -451,7 +451,7 @@ Display non-editable events in a Calendar_
 
 #### Infinite Scroll
 
-| :x: | no issue | - [vue-infinite-loading](https://github.com/PeachScript/vue-infinite-loading) - An infinite scroll plugin for Vue.js 1.0 & Vue.js 2.0.  
+| :x: | [issue](https://github.com/PeachScript/vue-infinite-loading/issues/299) | - [vue-infinite-loading](https://github.com/PeachScript/vue-infinite-loading) - An infinite scroll plugin for Vue.js 1.0 & Vue.js 2.0.  
 | :x: | no issue | - [vue-mugen-scroll](https://github.com/egoist/vue-mugen-scroll) - Infinite scroll component for Vue.js 2.  
 | :x: | no issue | - [vue-infinite-scroll](https://github.com/ElemeFE/vue-infinite-scroll) - An infinite scroll directive for vue.js.  
 | :x: | no issue | - [vue-loop](https://github.com/lookstudios/vue-loop) - An infinite content loop component for Vue.js 2.  
@@ -471,34 +471,34 @@ Display non-editable events in a Calendar_
 #### Markdown
 
 | :x: | no issue | - [vue-markdown](https://github.com/miaolz123/vue-markdown) - A Powerful and Highspeed Markdown Parser for Vue.  
-| :x: | no issue | - [vue-mavonEditor](https://github.com/hinesboy/mavonEditor) - A markdown editor based on Vue that supports a variety of personalized features.  
+| :x: | [issue](https://github.com/hinesboy/mavonEditor/issues/615) | - [vue-mavonEditor](https://github.com/hinesboy/mavonEditor) - A markdown editor based on Vue that supports a variety of personalized features.  
 | :x: | no issue | - [vue-simple-markdown](https://github.com/Vivify-Ideas/vue-simple-markdown) - A Simple and Highspeed Markdown Parser for Vue.  
 | :x: | no issue | - [vue-simplemde](https://github.com/F-loat/vue-simplemde) - A wrapper around [simplemde](https://github.com/sparksuite/simplemde-markdown-editor). Delightful editing for beginners and experts alike. Features built-in autosaving | :x: | no issue | and spell checking.  
 
 #### PDF
 
 | :x: | no issue | - [vue-pdf](https://github.com/FranckFreiburger/vue-pdf) - A pdf viewer based on mozilla's PDF.js  
-| :x: | no issue | - [pdfvuer](https://github.com/arkokoley/pdfvuer) - A PDF viewer for Vue using Mozilla's PDF.js with text support. [Demo](https://arkokoley.github.io/pdfvuer/)  
+| :x: | [issue](https://github.com/arkokoley/pdfvuer/issues/77) | - [pdfvuer](https://github.com/arkokoley/pdfvuer) - A PDF viewer for Vue using Mozilla's PDF.js with text support. [Demo](https://arkokoley.github.io/pdfvuer/)  
 
 #### Tree
 
 | :x: | no issue | - [Vue.D3.tree](https://github.com/David-Desmaisons/Vue.D3.tree) - A Tree View based on [D3.js](https://d3js.org/)  
 | :x: | no issue | - [vue-json-tree-view](https://github.com/arvidkahl/vue-json-tree-view) - A JSON Tree View Component for Vue.js.  
-| :x: | no issue | - [vue-tree](https://github.com/halower/vue2-tree) - A Tree Component for Vue.js 2.X.  
+| :x: | [issue](https://github.com/halower/vue-tree/issues/193) | - [vue-tree](https://github.com/halower/vue2-tree) - A Tree Component for Vue.js 2.X.  
 | :x: | no issue | - [liquor-tree](https://github.com/amsik/liquor-tree) - Amazing Vue Tree component  
 | :x: | no issue | - [vue-trees-ui](https://github.com/wyr1227/vue-trees) - A Tree Ui Base On Vue.  
 | :x: | no issue | - [Bosket](https://github.com/elbywan/bosket) - Collection of tree view components for front-end frameworks (Vue, React, Angular and Riot).  
-| :x: | no issue | - [plantain-00/tree-component](https://github.com/plantain-00/tree-component) - A reactjs, angular and vuejs tree component.  
-| :x: | no issue | - [sl-vue-tree](https://github.com/holiber/sl-vue-tree) - A simple customizable draggable tree component for Vue.js  
-| :x: | no issue | - [he-tree-vue](https://github.com/phphe/he-tree-vue) - A draggable sortable vue tree component, with dragging placeholder, types definition. 14 KB gzipped.  
+| :white_check_mark: | MIT | - [plantain-00/tree-component](https://github.com/plantain-00/tree-component) - A reactjs, angular and vuejs tree component.  
+| :x: | [issue](https://github.com/holiber/sl-vue-tree/issues/84) | - [sl-vue-tree](https://github.com/holiber/sl-vue-tree) - A simple customizable draggable tree component for Vue.js  
+| :white_check_mark: | MIT | - [he-tree-vue](https://github.com/phphe/he-tree-vue) - A draggable sortable vue tree component, with dragging placeholder, types definition. 14 KB gzipped.  
 | :x: | no issue | - [vuejs-tree](https://github.com/scalia/vuejs-tree) - A highly customizable VueJs tree viewer  
 | :x: | no issue | - [vue-jstree](https://github.com/zdy1988/vue-jstree) - A Tree Plugin For Vue2 with beautiful icons and drag&drop  
 | :x: | no issue | - [vue-vtree](https://github.com/XAHTEP26/vue-vtree) - Universal and flexible tree component for Vue.js  
 | :x: | no issue | - [vue-json-component](https://github.com/tylerkrupicka/vue-json-component) - JSON tree view with no dependencies, TypeScript support, and easy customization.  
-| :x: | no issue | - [vue-tree-list](https://github.com/ParadeTo/vue-tree-list) - A vue component for tree structure  
+| :x: | [issue](https://github.com/ParadeTo/vue-tree-list/issues/101) | - [vue-tree-list](https://github.com/ParadeTo/vue-tree-list) - A vue component for tree structure  
 | :x: | no issue | - [vue-finder](https://github.com/jledentu/vue-finder) - A component to display hierarchical data, with selection, filtering and drag & drop  
-| :x: | no issue | - [vue3-router-tree](https://github.com/boussadjra/vue3-router-tree) - This component is based on Vue.js 3, it represents your routes or items as a tree view 🌲.  
-| :x: | no issue | - [object-visualizer](https://github.com/iendeavor/object-visualizer) - Vue 3 JSON inspector with Chrome-like theme.  
+| :white_check_mark: | no issue | - [vue3-router-tree](https://github.com/boussadjra/vue3-router-tree) - This component is based on Vue.js 3, it represents your routes or items as a tree view 🌲.  
+| :white_check_mark: | MIT | - [object-visualizer](https://github.com/iendeavor/object-visualizer) - Vue 3 JSON inspector with Chrome-like theme.  
 
 #### Graph
 
