@@ -525,8 +525,8 @@ Display non-editable events in a Calendar_
 
 #### Search
 
-| :x: | no issue | - [vue-fuse](https://github.com/shayneo/vue-fuse) - A lightweight plugin for fuzzy search library, Fuse.js  
-| :x: | no issue | - [vue-instantsearch](https://community.algolia.com/vue-instantsearch/) - The ultimate toolbox for creating instant-search experiences using [Algolia](https://www.algolia.com/).  
+| :white_check_mark: | MIT | - [vue-fuse](https://github.com/shayneo/vue-fuse) - A lightweight plugin for fuzzy search library, Fuse.js  
+| :x: | [issue](https://github.com/algolia/vue-instantsearch/issues/890) | - [vue-instantsearch](https://community.algolia.com/vue-instantsearch/) - The ultimate toolbox for creating instant-search experiences using [Algolia](https://www.algolia.com/).  
 | :x: | no issue | - [vue-innersearch](https://github.com/InnerSearch/vue-innersearch) - A Vue.js wrapper for Elasticsearch  
 | :x: | no issue | - [reactivesearch-vue](https://github.com/appbaseio/reactivesearch) - UI components for building data-driven apps with Elasticsearch  
 | :x: | no issue | - [vue-search-panel](https://github.com/TheoXiong/vue-search-panel) - A Vue component for searching with suggestions  
@@ -534,19 +534,19 @@ Display non-editable events in a Calendar_
 #### Miscellaneous
 
 | :x: | no issue | - [vue-avatar](https://github.com/eliep/vue-avatar) - An avatar component for vue.js.  
-| :x: | no issue | - [vue-touch-ripple](https://github.com/surmon-china/vue-touch-ripple) - Touch ripple component for Vue.js(1.x ~ 2.x).  
+| :x: | [issue](https://github.com/surmon-china/vue-touch-ripple/issues/28) | - [vue-touch-ripple](https://github.com/surmon-china/vue-touch-ripple) - Touch ripple component for Vue.js(1.x ~ 2.x).  
 | :x: | no issue | - [vue-typer](https://github.com/cngu/vue-typer) - Vue component that simulates a user typing, selecting, and erasing text.  
 | :x: | no issue | - [vue-keyboard](https://github.com/MartyWallace/vue-keyboard) - Vue 2 virtual keyboard component.  
 | :x: | no issue | - [vue-twentytwenty](https://github.com/mhayes/vue-twentytwenty) - Image comparison component, works with Vue.js 2.x  
-| :x: | no issue | - [vue-cookie-law](https://github.com/apertureless/vue-cookie-law) - Cookie info plugin for Vue.js 2.x  
+| :x: | [issue](https://github.com/apertureless/vue-cookie-law/issues/72) | - [vue-cookie-law](https://github.com/apertureless/vue-cookie-law) - Cookie info plugin for Vue.js 2.x  
 | :x: | no issue | - [vue-gravatar](https://github.com/JiriChara/vue-gravatar) - A dead-simple gravatar component for Vue.js 2.x  
-| :x: | no issue | - [vue-clipboard2](https://github.com/Inndy/vue-clipboard2) - An easy to use clipboard.js binding for Vue.js 2.x  
+| :x: | [issue](https://github.com/Inndy/vue-clipboard2/issues/94) | - [vue-clipboard2](https://github.com/Inndy/vue-clipboard2) - An easy to use clipboard.js binding for Vue.js 2.x  
 | :x: | no issue | - [vue-flashcard](https://github.com/cuduy197/vue-flashcard) - FLashcard component with animation for Vue.js 2.x :bulb:  
 | :x: | no issue | - [vue-truncate-collapsed](https://github.com/kavalcante/vue-truncate-collapsed) - A simple component that truncates your text and adds a 'Read More/Show Less' clickable for Vue.js 2.x  
 | :x: | no issue | - [vue-kanban](https://github.com/BrockReece/vue-kanban) - A flexible drag and drop kanban board component  
 | :x: | no issue | - [vue-letter-avatar](https://github.com/aidewoode/vue-letter-avatar) - A simple and elegant letter avatar component for vue.js  
 | :x: | no issue | - [vue-highlightjs](https://github.com/metachris/vue-highlightjs) - Syntax highlighting with highlight.js  
-| :x: | no issue | - [v-clipboard](https://github.com/euvl/v-clipboard) - Simple, tiny and easy to use directive to save your models to clipboard (less than 2kb minified, no dependencies)  
+| :x: | [issue](https://github.com/euvl/v-clipboard/issues/17) | - [v-clipboard](https://github.com/euvl/v-clipboard) - Simple, tiny and easy to use directive to save your models to clipboard (less than 2kb minified, no dependencies)  
 | :x: | no issue | - [vue-invisible-recaptcha](https://github.com/MicroDroid/vue-invisible-recaptcha) - Super easy integration for Google's Invisible reCAPTCHA  
 | :x: | no issue | - [vue-embed](https://github.com/Gomah/vue-embed) - Embed component is based on embed.js for Vue 2.x, a component that embeds emojis, media, maps, tweets, gists, code, services and markdown.  
 | :x: | no issue | - [vue-particles](https://github.com/creotip/vue-particles) - Vue.js component for particles backgrounds  
@@ -571,9 +571,9 @@ Display non-editable events in a Calendar_
 | :x: | no issue | - [vue-page-designer](https://github.com/fireyy/vue-page-designer) - Vue component for drag-and-drop to design and build mobile website.  
 | :x: | no issue | - [vue-creativecommons](https://github.com/julon/vue-creativecommons) - CreativeCommons.org Vue.js components library.  
 | :x: | no issue | - [vue-status-indicator](https://github.com/coderdiaz/vue-status-indicator) - A Vue.js component to show status indicator as colored dots.  
-| :x: | no issue | - [vue-google-adsense](https://github.com/mazipan/vue-google-adsense) - Vue.js Google Adsense Component with InFeed and InArticle Ads support  
+| :x: | [issue](https://github.com/mazipan/vue-google-adsense/issues/158) | - [vue-google-adsense](https://github.com/mazipan/vue-google-adsense) - Vue.js Google Adsense Component with InFeed and InArticle Ads support  
 | :x: | no issue | - [emoji-vue](https://github.com/shershen08/emoji-vue) - Emoji 😎👌🏻 dropdown for Vue.js project  
-| :x: | no issue | - [vue-chessboard](https://github.com/vitogit/vue-chessboard) - Chessboard vue component to load positions, create positions and see threats.  
+| :x: | [issue](https://github.com/vitogit/vue-chessboard/issues/19) | - [vue-chessboard](https://github.com/vitogit/vue-chessboard) - Chessboard vue component to load positions, create positions and see threats.  
 | :x: | no issue | - [vue-mindmap](https://github.com/anteriovieira/vue-mindmap) - Vue component for mindnode maps.  
 | :x: | no issue | - [v-currency](https://github.com/ignoreintuition/v-currency) - Vue component for formatting currency.  
 | :x: | no issue | - [vue-emoji-picker](https://github.com/DCzajkowski/vue-emoji-picker) - Highly customizable unicode emoji picker 🔥🚀  
@@ -586,7 +586,7 @@ Display non-editable events in a Calendar_
 | :x: | no issue | - [vue-prom](https://github.com/Botre/vue-prom) - Vue promise wrapper component.  
 | :x: | no issue | - [numeric-keyboard](https://github.com/viclm/numeric-keyboard) - Numeric keyboard for mobile browsers.  
 | :x: | no issue | - [vue-zoom-on-hover](https://github.com/Intera/vue-zoom-on-hover) - Image zoom on mouse hover  
-| :x: | no issue | - [vue-responsive-image](https://github.com/HCESrl/vue-responsive-image) - A Vue component that lets you quickly create responsive image tags with an optimal number of image sources for all devices.  
+| :x: | [issue](https://github.com/HCESrl/vue-responsive-image/issues/9) | - [vue-responsive-image](https://github.com/HCESrl/vue-responsive-image) - A Vue component that lets you quickly create responsive image tags with an optimal number of image sources for all devices.  
 | :x: | no issue | - [vue-highlight-text](https://github.com/TonPC64/vue-highlight-text) - Vue component for highlight multiple instances of a word  
 | :x: | no issue | - [vue-cast-props](https://github.com/anteriovieira/vue-cast-props) - Provides a convenient way of converting props to common data types.  
 | :x: | no issue | - [vue2-heropatterns](https://github.com/JustSteveKing/vue2-heropatterns) - A Vue2 implementation allowing you to add the popular Hero Patterns onto any Div  
@@ -595,14 +595,14 @@ Display non-editable events in a Calendar_
 | :x: | no issue | - [vue-cloneya](https://github.com/ridaamirini/vue-cloneya) - A vue component to clone DOM elements  
 | :x: | no issue | - [vue-survey-builder](https://github.com/FissionHQ/vue-survey-builder) - Survey builder for vue.js applications  
 | :x: | no issue | - [vue-if-bot](https://github.com/Developmint/vue-if-bot) - A lightweight component to hide/show content to clients based on the user agent  
-| :x: | no issue | - [vue-clampy](https://github.com/clampy-js/vue-clampy) - Vue.js (2+) directive that clamps the content of an element by adding an ellipsis to it if the content inside is too long.  
+| :x: | [issue](https://github.com/clampy-js/vue-clampy/issues/12) | - [vue-clampy](https://github.com/clampy-js/vue-clampy) - Vue.js (2+) directive that clamps the content of an element by adding an ellipsis to it if the content inside is too long.  
 | :x: | no issue | - [vue-cookie-accept-decline](https://github.com/promosis/vue-cookie-accept-decline) - Show a banner with text, a decline button, and an accept button on your page. Remembers selection using cookies. Emits an event with current selection on creation. Good for GDPR requirements.  
 | :x: | no issue | - [@lossendae/vue-avatar](https://github.com/lossendae/vue-avatar) - An avatar component for VueJS 2.0.  
-| :x: | no issue | - [vue-text-highlight](https://github.com/AlbertLucianto/vue-text-highlight) - Text highlighter library for Vue.js 💄  
-| :x: | no issue | - [vue2-hammer](https://github.com/bsdfzzzy/vue2-hammer) Hammer.js wrapper for Vue 2.x to support mobile touch..  
+| :x: | [issue](https://github.com/AlbertLucianto/vue-text-highlight/issues/43) | - [vue-text-highlight](https://github.com/AlbertLucianto/vue-text-highlight) - Text highlighter library for Vue.js 💄  
+| :x: | [issue](https://github.com/bsdfzzzy/vue2-hammer/issues/42) | - [vue2-hammer](https://github.com/bsdfzzzy/vue2-hammer) Hammer.js wrapper for Vue 2.x to support mobile touch..  
 | :x: | no issue | - [vue-countable](https://github.com/johndatserakis/vue-countable) - Vue binding for countable.js. Provides real-time paragraph, sentence, word, and character counting.  
 | :x: | no issue | - [v-show-slide](https://github.com/phegman/v-show-slide) - A Vue.js directive for animating an element to and from height: auto in a sliding motion.  
-| :x: | no issue | - [vue-swipe-actions](https://github.com/eCollect/vue-swipe-actions) - iOS style swipe actions for Vue.js  
+| :x: | [issue](https://github.com/eCollect/vue-swipe-actions/issues/54) | - [vue-swipe-actions](https://github.com/eCollect/vue-swipe-actions) - iOS style swipe actions for Vue.js  
 | :x: | no issue | - [vue-friendly-iframe](https://github.com/officert/vue-friendly-iframe) - A Vue js component for creating super fast loading, non-blocking iframes.  
 | :x: | no issue | - [vue-beautiful-chat](https://github.com/mattmezza/vue-beautiful-chat) - A simple and beautiful Vue chat component backend agnostic, fully customizable and extendable.  
 | :x: | no issue | - [vue-magnifier](https://github.com/zeknoss/vue-magnifier) - A simple image zooming / magnifying component for Vue.js 2.x.  
@@ -629,8 +629,8 @@ Display non-editable events in a Calendar_
 | :x: | no issue | - [vue-car-plate-keyboard](https://github.com/yimocanxue/vue-car-plate-keyboard) - A car license plate number keyboard for VueJS 2.x.(车牌号输入键盘，支持新能源车牌 🚗🚗🚗)  
 | :x: | no issue | - [vue-dataflow-editor](https://github.com/krthr/vue-dataflow-editor) - Vue2 dataflow graph editor  
 | :x: | no issue | - [vue-twemoji-picker](https://github.com/kevinfaguiar/vue-twemoji-picker) - A fast plug-n-play Twemoji Picker (+textarea for Twemoji rendering) for Vue.  
-| :x: | no issue | - [vuejs-avataaars](https://github.com/orgordin/vuejs-avataaars) - Simple avatar generator Vue component for avataaars.  
-| :x: | no issue | - [vue-moveable](https://github.com/probil/vue-moveable) - A Vue Component that creates Moveable, Draggable, Resizable, Scalable, Rotatable, Warpable and more. 
+| :x: | [issue](https://github.com/orgordin/vuejs-avataaars/issues/13) | - [vuejs-avataaars](https://github.com/orgordin/vuejs-avataaars) - Simple avatar generator Vue component for avataaars.  
+| :x: | [issue](https://github.com/probil/vue-moveable/issues/190) | - [vue-moveable](https://github.com/probil/vue-moveable) - A Vue Component that creates Moveable, Draggable, Resizable, Scalable, Rotatable, Warpable and more. 
 | :x: | no issue | - [vue-camera-gestures](https://github.com/danielelkington/vue-camera-gestures) - Let users control your Vue app using AI and gestures in front of their camera in just 1 line in your HTML template!  
 | :x: | no issue | - [vue-aspect-ratio](https://github.com/albertodeago/vue-aspect-ratio) - A tiny component to handle aspect ratios with no effort.  
 | :x: | no issue | - [query-builder-vue](https://github.com/rtucek/vue-query-builder) - A query-builder library for building complex and nested queries with draggable re-ordering.  
@@ -646,12 +646,12 @@ Display non-editable events in a Calendar_
 | :x: | no issue | - [vuesence-book](https://github.com/altrusl/vuesence-book) - Documentation/help system component.  
 | :x: | no issue | - [vue-turnjs](https://github.com/Reidond/vue-turnjs) - A component libary to add book experience to your app.  
 | :x: | no issue | - [vuesence-sliding-header](https://github.com/altrusl/vuesence-sliding-header) - Sliding header(s) for top navigation bar(s).  
-| :x: | no issue | - [tsParticles](https://github.com/matteobruni/tsparticles) - A lightweight Javascript library to easily create highly configurable and interactive particle animations  
-| :x: | no issue | - [@bananajs/vue3-book-component](https://github.com/bananajs-is-already-taken/vue3-book-component) - Book component for Vue 3. It provides easy, flexible API and great customizability.  
+| :white_check_mark: | MIT | - [tsParticles](https://github.com/matteobruni/tsparticles) - A lightweight Javascript library to easily create highly configurable and interactive particle animations  
+| :white_check_mark: |  LGPL-3.0 License | - [@bananajs/vue3-book-component](https://github.com/bananajs-is-already-taken/vue3-book-component) - Book component for Vue 3. It provides easy, flexible API and great customizability.  
 | :x: | no issue | - [@bananajs/vue2-book-component](https://github.com/bananajs-is-already-taken/vue2-book-component) - Book component for Vue 2. It provides easy, flexible API and great customizability.  
 | :x: | no issue | - [vue-image-zoomer](https://github.com/samjonesigd/vue-image-zoomer) - image zoom component for Vue.js 2, that also works on touch devices.  
 | :x: | no issue | - [vue-show-more-text](https://github.com/limlt/vue-show-more-text) - Vue multiline sentence ellipsis component. The text in the component will be truncated.  
-| :x: | no issue | - [vue-copy-to-clipboard](https://github.com/meforma/vue-copy-to-clipboard) - Vue.js 3 plugin to copy text to clipboard (Vue 3)  
+| :white_check_mark:  | MIT | - [vue-copy-to-clipboard](https://github.com/meforma/vue-copy-to-clipboard) - Vue.js 3 plugin to copy text to clipboard (Vue 3)  
 
 #### Tabs
 
