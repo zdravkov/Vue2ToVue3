@@ -226,7 +226,7 @@ Overlay / modal / alert / dialog / lightbox / popup_
 | :x: | no issue | - [vue-lang-code-flags](https://github.com/qWici/vue-lang-code-flags) - Vue component which shows the flag of the country from which the language comes from  
 | :x: | no issue | - [vue-zondicons](https://github.com/TerryMooreII/vue-zondicons) - Vue component for the beautiful [Zondicon](http://www.zondicons.com/icons.html) svg icons  
 | :x: | no issue | - [vue-eva-icons](https://github.com/antonreshetov/vue-eva-icons) - Simply beautiful open source eva icons as Vue components.  
-| :x: | [issue](https://github.com/antonreshetov/vue-unicons/issues/39) | - [vue-unicons](https://github.com/antonreshetov/vue-unicons) - 1000+ Pixel-perfect svg unicons for your next project as Vue components.  
+| :white_check_mark: | [repo](https://github.com/antonreshetov/vue-unicons-next) | - [vue-unicons](https://github.com/antonreshetov/vue-unicons) - 1000+ Pixel-perfect svg unicons for your next project as Vue components.  
 | :white_check_mark: | MIT | - [vue-fa](https://github.com/Cweili/vue-fa) - Simple FontAwesome 5 Vue.js 2 component.  
 | :x: | no issue | - [vue-cryptoicon](https://github.com/man15h/vue-cryptoicon) - Beautiful pixel perfect 400+ cryptocurrency and 10+ Fiat currency icon.  
 | :x: | [issue](https://github.com/matschik/vue-hero-icons/issues/156) | - [vue-hero-icons](https://github.com/matschik/vue-hero-icons) - A set of high-quality SVG icons, sourced from [@refactoringui/heroicons](https://github.com/refactoringui/heroicons), as Vue functional components.  
@@ -507,7 +507,7 @@ Display non-editable events in a Calendar_
 
 #### Social Sharing
 
-| :x: | no issue | - [vue-social-sharing](https://github.com/nicolasbeauvais/vue-social-sharing) - A renderless Vue.js component for sharing links to social networks, compatible with SSR  
+| :x: | [issue](https://github.com/nicolasbeauvais/vue-social-sharing/pull/259) | - [vue-social-sharing](https://github.com/nicolasbeauvais/vue-social-sharing) - A renderless Vue.js component for sharing links to social networks, compatible with SSR  
 | :x: | no issue | - [vue-goodshare](https://github.com/koddr/vue-goodshare) - Vue.js component for social share with beautiful button design. Simple install, extensive documentation, developer support, SEO friendly, clean code without scripts tracking user activity on the page, high speed. Work with Vue.js 2.x.  
 | :x: | no issue | - [vue-socialmedia-share](https://github.com/mbj36/vue-socialmedia-share) - A Vue.js component for sharing links to social networks, with Vue 2.X  
 | :x: | no issue | - [vue-picture-sharesheet](https://github.com/Onatcer/vue-picture-sharesheet) - A Vue Picture Sharesheet Component heavily inspired by the Image Sharesheet in Apple's Newsroom  
@@ -520,8 +520,8 @@ Display non-editable events in a Calendar_
 
 | :x: | no issue | - [vue-qriously](https://github.com/theomessin/vue-qriously) - A Vue.js 2 component to draw QR codes on an HTML Canvas using qrious.  
 | :x: | no issue | - [vue-qart](https://github.com/superman66/vue-qart) - The directive of vue 2.x for qart.js.  
-| :x: | no issue | - [vue-qrcode-reader](https://github.com/gruhn/vue-qrcode-reader) - A Vue.js 2 component which detects and decodes QR codes from a camera stream.  
-| :x: | no issue | - [vue3-qr-reader](https://github.com/HJ29/vue3-qr-reader) - A Vue 3 QR reader component. Refactor vue-qrcode-reader for vue 3 compatibility.  
+| :x: | [issue](https://github.com/gruhn/vue-qrcode-reader/issues/203) | - [vue-qrcode-reader](https://github.com/gruhn/vue-qrcode-reader) - A Vue.js 2 component which detects and decodes QR codes from a camera stream.  
+| :white_check_mark: | no issue | - [vue3-qr-reader](https://github.com/HJ29/vue3-qr-reader) - A Vue 3 QR reader component. Refactor vue-qrcode-reader for vue 3 compatibility.  
 
 #### Search
 
