@@ -691,7 +691,7 @@ Let the user create & edit data_
 | :x: | no issue | - [FormSchema Native](https://github.com/formschema/native) - Generate a form using JSON Schema and Vue.js  
 | :x: | no issue | - [vue-generator](https://github.com/michaellyu/vue-generator) - Initial router and components for the Vue project.  
 | :x: | no issue | - [vue-form-json](https://github.com/14nrv/vue-form-json) - Generate a vue form with validation and bulma style, from json  
-| :x: | no issue | - [form-create](https://github.com/xaboy/form-create) - Form builder with dynamic rendering, data collection, validation, and submission capabilities, supporting json data  
+| :x: | [issue](https://github.com/xaboy/form-create/issues/277) | - [form-create](https://github.com/xaboy/form-create) - Form builder with dynamic rendering, data collection, validation, and submission capabilities, supporting json data  
 | :x: | no issue | - [element-form-builder](https://github.com/codetrial/element-form-builder) - Build element-ui forms with JSON Schema.  
 | :x: | no issue | - [ncform](https://github.com/ncform/ncform) - a very nice configuration generation way to develop form  
 | :x: | no issue | - [Laraform](https://github.com/laraform/laraform) - Advanced form builder for Vue.js with Laravel support  
@@ -710,31 +710,31 @@ Date / datetime / time Picker_
 | :x: | no issue | - [vue2-timepicker](https://github.com/phoenixwong/vue2-timepicker) - A dropdown time picker (hour|minute|second) for Vue 2.x, with flexible time format support. :clock7: (Back and recharged in 2019 :battery:)  
 | :x: | no issue | - [vuejs-datepicker](https://github.com/charliekassel/vuejs-datepicker) - A simple Vue.js datepicker component. Supports disabling of dates, inline mode, translations.  
 | :x: | no issue | - [vuedt](https://github.com/nkoehring/vuedt) - Crazy lightweight (<5kb!) Vuejs Date and Time picker component with i18n support, nice animations and not too much fuzz.  
-| :x: | no issue | - [vue-flatpickr-component](https://github.com/ankurk91/vue-flatpickr-component) Vue.js component for [flatpickr](https://github.com/chmln/flatpickr) datetime picker  
+| :white_check_mark: | MIT | - [vue-flatpickr-component](https://github.com/ankurk91/vue-flatpickr-component) Vue.js component for [flatpickr](https://github.com/chmln/flatpickr) datetime picker  
 | :x: | no issue | - [vue-jalaali-datepicker](https://github.com/pepour/vue-jalaali-datepicker) - Jalaali calendar and datepicker for vue.js 2.  
 | :x: | no issue | - [vue-date-picker](https://github.com/ridewn/vue-date-picker) - A vue date picker component inspired by material design  
 | :x: | no issue | - [vue-monthly-picker](https://github.com/ittus/vue-monthly-picker) - Vue.js component for month and year picker only  
-| :x: | no issue | - [vue-hotel-datepicker](https://github.com/krystalcampioni/vue-hotel-datepicker) - A responsive date range picker that displays the number of nights selected, allows custom check-in/check-out rules, blocking dates, localization support and more.  
-| :x: | no issue | - [vue2-persian-datepicker](https://github.com/dyonir/vue2-persian-datepicker) - An awesome  Persian datepicker component for vue. کامپوننت انتخاب تاریخ برای ویو.  
-| :x: | no issue | - [vue-datetime](https://github.com/mariomka/vue-datetime) - Mobile friendly datetime picker for Vue. Supports date, datetime and time modes, i18n and disabling dates.  
+| :x: | [issue](https://github.com/krystalcampioni/vue-hotel-datepicker/issues/213) | - [vue-hotel-datepicker](https://github.com/krystalcampioni/vue-hotel-datepicker) - A responsive date range picker that displays the number of nights selected, allows custom check-in/check-out rules, blocking dates, localization support and more.  
+| :x: | [issue](https://github.com/talkhabi/vue-persian-datetime-picker/issues/127) | - [vue2-persian-datepicker](https://github.com/dyonir/vue2-persian-datepicker) - An awesome  Persian datepicker component for vue. کامپوننت انتخاب تاریخ برای ویو.  
+| :x: | [issue](https://github.com/mariomka/vue-datetime/issues/244) | - [vue-datetime](https://github.com/mariomka/vue-datetime) - Mobile friendly datetime picker for Vue. Supports date, datetime and time modes, i18n and disabling dates.  
 | :x: | no issue | - [vue-rangedate-picker](https://github.com/bliblidotcom/vue-rangedate-picker) - Range date picker with simple usage  
-| :x: | no issue | - [v2-datepicker](https://github.com/dwqs/v2-datepicker) - A simple datepicker component based Vue 2.x.  
+| :x: | [issue](https://github.com/dwqs/v2-datepicker/issues/25) | - [v2-datepicker](https://github.com/dwqs/v2-datepicker) - A simple datepicker component based Vue 2.x.  
 | :x: | no issue | - [vue-datepicker-local](https://github.com/weifeiyue/vue-datepicker-local) - A Beautiful Datepicker Component For Vue2.  
-| :x: | no issue | - [vue-airbnb-style-datepicker](https://github.com/MikaelEdebro/vue-airbnb-style-datepicker) - A Vue datepicker with a similar look and functionality as the popular AirBnb datepicker. Lightweight, configurable and good browser support!  
-| :x: | no issue | - [vue-persian-datetime-picker](https://github.com/talkhabi/vue-persian-datetime-picker) Persian material datepicker. Supports datetime, date, time, year, month.  
+| :x: | [issue](https://github.com/MikaelEdebro/vue-airbnb-style-datepicker/issues/146) | - [vue-airbnb-style-datepicker](https://github.com/MikaelEdebro/vue-airbnb-style-datepicker) - A Vue datepicker with a similar look and functionality as the popular AirBnb datepicker. Lightweight, configurable and good browser support!  
+| :x: | [issue](https://github.com/talkhabi/vue-persian-datetime-picker/issues/127) | - [vue-persian-datetime-picker](https://github.com/talkhabi/vue-persian-datetime-picker) Persian material datepicker. Supports datetime, date, time, year, month.  
 | :x: | no issue | - [VCalendar](https://vcalendar.io/) Very customizable and powerful calendar/datepicker component with many features and good documentation.  
 | :x: | no issue | - [@owumaro/vue-date-range-picker](https://github.com/Owumaro/vue-date-range-picker) - A vue component using Bootstrap 4 styles for date range selection  
 | :x: | no issue | - [vue-datepicker-mobile](https://github.com/ikarosu/vue-datepicker-mobile) - A mobile friendly datepicker for vue2. :cn: select one day or range of date and custom it that you wish.  
 | :x: | no issue | - [vue-draggable-cal](https://github.com/liloow/vue-draggableCal) - Not your ordinary datepicker. A Vuejs draggable date selector with a fresh responsive design, mobile ready and 0 dependencies, 17kb gzipped.  
 | :x: | no issue | - [vue-vanilla-datetime-picker](https://github.com/Shchepotin/vue-vanilla-datetime-picker) - Datetime picker for Vue.  
-| :x: | no issue | - [vue2-daterange-picker](https://github.com/Innologica/vue2-daterange-picker/blob/master/README.md) - Vue2 date range picker based on bootstrap-daterangepicker (no jQuery dependency)  
+| :x: | [issue](https://github.com/Innologica/vue2-daterange-picker/issues/216) | - [vue2-daterange-picker](https://github.com/Innologica/vue2-daterange-picker/blob/master/README.md) - Vue2 date range picker based on bootstrap-daterangepicker (no jQuery dependency)  
 | :x: | no issue | - [vue-timeselector](https://github.com/alexiscolin/vue-timeselector) - Fully and simply customizable powerful time picker component for Vue.js.  
 | :x: | no issue | - [vue-date-picker](https://github.com/8788/vue-date-picker) - Lightweight datepicker component for Vue 2.x.  
-| :x: | no issue | - [vue-ctk-date-time-picker](https://github.com/chronotruck/vue-ctk-date-time-picker) - A beautiful VueJS component to pick date & time (with range mode) :new:  
+| :x: | [issue](https://github.com/chronotruck/vue-ctk-date-time-picker/pull/324) | - [vue-ctk-date-time-picker](https://github.com/chronotruck/vue-ctk-date-time-picker) - A beautiful VueJS component to pick date & time (with range mode) :new:  
 | :x: | no issue | - [simple-vue2-datetimepicker](https://github.com/jamespjarvis/simple-vue2-datetimepicker) - A simple, easy to use vue.js component for date and time picking. :new:  
 | :x: | no issue | - [vue-business-hours](https://github.com/sbarry50/vue-business-hours) - Vue component for selecting business hours in an administration panel or dashboard.  
 | :x: | no issue | - [material-vue-daterange-picker](https://github.com/ly525/material-vue-daterange-picker) - a daterange picker of Material Design style for Vuejs 2.x, which is compatible with vuetify and friendly for mobile.  
-| :x: | no issue | - [vue-datepicker](https://github.com/mathieustan/vue-datepicker) - A clean & responsive datepicker with Material Design style for Vuejs 2.x. (date/month/quarter && date range picker) :new:  
+| :x: | [issue](https://github.com/mathieustan/vue-datepicker/issues/57) | - [vue-datepicker](https://github.com/mathieustan/vue-datepicker) - A clean & responsive datepicker with Material Design style for Vuejs 2.x. (date/month/quarter && date range picker) :new:  
 
 ##### Select
 
