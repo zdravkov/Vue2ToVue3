@@ -835,7 +835,7 @@ Let the user select a tag / something while typing_
 
 Switch / on/off toggle / checkbox_
 
-| :x: | no issue | - [vue-switches](https://github.com/drewjbartlett/vue-switches) - An on/off switch component for Vue.js with theme support.  
+| :x: | [issue](https://github.com/drewjbartlett/vue-switches/issues/27) | - [vue-switches](https://github.com/drewjbartlett/vue-switches) - An on/off switch component for Vue.js with theme support.  
 | :x: | no issue | - [vue-js-toggle-button](https://github.com/euvl/vue-js-toggle-button) - Vue.js 2.0+ toggle / switch button - simple, pretty, customizable.  
 | :x: | no issue | - [vue-checkbox-radio](https://github.com/mariomka/vue-checkbox-radio) - A Vue component to easily styling checkbox and radio inputs.  
 | :x: | no issue | - [vue-enhanced-check](https://github.com/Keiwen/vue-enhancedCheck) - Vue component to redesign/labelize checkbox/radio, including toggle/switch button.  
@@ -847,28 +847,28 @@ Switch / on/off toggle / checkbox_
 | :x: | no issue | - [vue-toggle-btn](https://github.com/JonathanDn/vue-toggle-btn) - A Highly Customizable, easy-to-use elegant toggle/switch button component  
 | :x: | no issue | - [vue-tristate-checkbox](https://github.com/hartwork/vue-tristate-checkbox) - Cycling tristate checkbox that supports form submission  
 | :x: | no issue | - [vue-toggles](https://github.com/juliandreas/vue-toggles) - A highly customizable and accessible toggle component  
-| :x: | no issue | - [@vueform/toggle](https://github.com/vueform/toggle) - Vue 3 toggle component with labels, custom slots and styling options.  
+| :white_check_mark: | MIT | - [@vueform/toggle](https://github.com/vueform/toggle) - Vue 3 toggle component with labels, custom slots and styling options.  
 
 ##### Masked Input
 
-| :x: | no issue | - [vue-masked-input](https://github.com/niksmr/vue-masked-input) - Masked input component for Vue.js.  
+| :x: | [issue](https://github.com/niksmr/vue-masked-input/issues/62) | - [vue-masked-input](https://github.com/niksmr/vue-masked-input) - Masked input component for Vue.js.  
 | :x: | no issue | - [vue-text-mask](https://github.com/text-mask/text-mask) - Input mask for React, Angular, Ember, Vue, & plain JavaScript.  
 | :x: | no issue | - [vue-ip-input](https://github.com/lakb248/vue-ip-input) - An ip input implemented by vuejs.  
 | :x: | no issue | - [vue-numeric](https://github.com/kevinongko/vue-numeric) - Input field component to display currency value based on Vue.  
 | :x: | no issue | - [awesome-mask](https://github.com/moip/awesome-mask) - Mask directive based on a pure and simply VanillaJS implementation  
 | :x: | no issue | - [v-money](https://github.com/vuejs-tips/v-money) - Tiny (<2k gzipped) input/directive mask for currency  
-| :x: | no issue | - [vue-autonumeric](https://github.com/autoNumeric/vue-autoNumeric) - A Vue.js component that wraps the awesome [AutoNumeric](http://autonumeric.org/) input formatter library  
+| :x: | [issue](https://github.com/autoNumeric/vue-autoNumeric/issues/46) | - [vue-autonumeric](https://github.com/autoNumeric/vue-autoNumeric) - A Vue.js component that wraps the awesome [AutoNumeric](http://autonumeric.org/) input formatter library  
 | :x: | no issue | - [vue-inputmask](https://github.com/scleriot/vue-inputmask) - Vue.js directive to add Robin Herbots' inputmask library to your inputs (vanilla javascript).  
 | :x: | no issue | - [vue-input-number](https://github.com/joseluisq/vue-input-number) - A custom input number component for Vue.js 2.  
 | :x: | no issue | - [v-unicode](https://github.com/ndelvalle/v-unicode) - Vue directive to restrict an input by unicode values.  
-| :x: | no issue | - [vue-cleave-component](https://github.com/ankurk91/vue-cleave-component) - Vue.js component for [cleave.js](http://nosir.github.io/cleave.js/)  
+| :white_check_mark: | MIT | - [vue-cleave-component](https://github.com/ankurk91/vue-cleave-component) - Vue.js component for [cleave.js](http://nosir.github.io/cleave.js/)  
 | :x: | no issue | - [vue-ip](https://github.com/peteringram0/vue-ip) - An ip address input with port and material design support  
 | :x: | no issue | - [vue-r-mask](https://github.com/raidan00/vue-r-mask) - Directive with template similar to javascript regular expression.  
 | :x: | no issue | - [vue-input-code](https://github.com/zhouyuexie/vue-input-code) - Base on Vue.js 2.0+ verification code input component.  
 | :x: | no issue | - [label-edit](https://github.com/myokyawhtun/label-edit) - Inspired by Trello. Click to show editable input and return the value changes. This is a Vue Component.  
 | :x: | no issue | - [vue-jquery-mask](https://github.com/ankurk91/vue-jquery-mask) - Vue.js v2.x component for [jQuery Mask Plugin](https://github.com/igorescobar/jQuery-Mask-Plugin)  
-| :x: | no issue | - [vue-the-mask](https://github.com/vuejs-tips/vue-the-mask) - Tiny (<2k gzipped) and dependency free mask input for Vue.js  
-| :x: | no issue | - [vue-currency-input](https://github.com/dm4t2/vue-currency-input) - Easy input of currency formatted numbers for Vue.js.  
+| :x: | [issue](https://github.com/vuejs-tips/vue-the-mask/issues/166) | - [vue-the-mask](https://github.com/vuejs-tips/vue-the-mask) - Tiny (<2k gzipped) and dependency free mask input for Vue.js  
+| :x: | [issue](https://github.com/dm4t2/vue-currency-input/issues/166) | - [vue-currency-input](https://github.com/dm4t2/vue-currency-input) - Easy input of currency formatted numbers for Vue.js.  
 | :x: | no issue | - [vue-restricted-input](https://github.com/Scrum/vue-restricted-input) - Input mask library for vue.js based on [restricted-input](https://github.com/braintree/restricted-input)  
 | :x: | no issue | - [vue-input-facade](https://github.com/RonaldJerez/vue-input-facade) - A lightweight and dependency free input masking library created specific for Vue, originally a fork of the famous _vue-text-mask_ but activelly mantained and with lots of improvements after there.  
 
@@ -877,27 +877,27 @@ Switch / on/off toggle / checkbox_
 | :x: | no issue | - [vue-quill-editor](https://github.com/surmon-china/vue-quill-editor) - Quill editor component for Vue2.  
 | :x: | no issue | - [vue-mobiledoc-editor](https://github.com/alidcastano/vue-mobiledoc-editor) - A mobiledoc editor component toolkit for Vuejs.  
 | :x: | no issue | - [vue2-medium-editor](https://github.com/FranzSkuffka/vue-medium-editor) - A MediumEditor component for Vue 2.  
-| :x: | no issue | - [vue-froala-wysiwyg](https://github.com/froala/vue-froala-wysiwyg) - Official VueJS plugin for Froala WYSIWIG HTML Editor.  
+| :x: | [issue](https://github.com/froala/vue-froala-wysiwyg/issues/168) | - [vue-froala-wysiwyg](https://github.com/froala/vue-froala-wysiwyg) - Official VueJS plugin for Froala WYSIWIG HTML Editor.  
 | :x: | no issue | - [vue-at](https://github.com/fritx/vue-at) - At.js for Vue.  
-| :x: | no issue | - [vue-wysiwyg](https://github.com/chmln/vue-wysiwyg) Lightweight, fast & extensible WYSIWYG editor  
+| :x: | [issue](https://github.com/chmln/vue-wysiwyg/issues/135) | - [vue-wysiwyg](https://github.com/chmln/vue-wysiwyg) Lightweight, fast & extensible WYSIWYG editor  
 | :x: | no issue | - [vue-trumbowyg](https://github.com/ankurk91/vue-trumbowyg) Vue.js component for [Trumbowyg](http://alex-d.github.io/Trumbowyg/) WYSIWYG editor  
 | :x: | no issue | - [vue-pell-editor](https://github.com/CinKon/vue-pell-editor) Vue.js component for [Pell](https://jaredreich.com/pell) WYSIWYG editor  
 | :x: | no issue | - [vue-tinymce-editor](https://github.com/dyonir/vue-tinymce-editor) Tinymce editor component for Vue2.  
 | :x: | no issue | - [vue-mce](https://github.com/Eazymov/vue-mce) - tinymce editor component for VueJS.  
-| :x: | no issue | - [Vue2-Editor](https://github.com/davidroyer/vue2-editor) - HTML Editor using Vue.js and Quilljs  
-| :x: | no issue | - [vue-codemirror](https://github.com/surmon-china/vue-codemirror) - A Codemirror component for Vue2.  
+| :x: | [issue](https://github.com/davidroyer/vue2-editor/issues/283) | - [Vue2-Editor](https://github.com/davidroyer/vue2-editor) - HTML Editor using Vue.js and Quilljs  
+| :x: | [issue](https://github.com/surmon-china/vue-codemirror/issues/124) | - [vue-codemirror](https://github.com/surmon-china/vue-codemirror) - A Codemirror component for Vue2.  
 | :x: | no issue | - [vue-easy-tinymce](https://github.com/m3esma/vue-easy-tinymce) - A simple and powerful package for easy usage of tinymce in Vue.js project.  
 | :x: | no issue | - [vue-highlightable-input](https://github.com/SyedWasiHaider/vue-highlightable-input) - Highlight and style text as you're typing  
 | :x: | no issue | - [vue-trix](https://github.com/hanhdt/vue-trix) - Simple and lightweight Trix rich-text editor for Vue.js  
-| :x: | no issue | - [tiptap](https://github.com/heyscrumpy/tiptap) - A renderless and extendable rich-text editor for Vue.js  
+| :x: | [issue](https://github.com/ueberdosis/tiptap/issues/735) | - [tiptap](https://github.com/heyscrumpy/tiptap) - A renderless and extendable rich-text editor for Vue.js  
 | :x: | no issue | - [toast-ui.vue-editor](https://github.com/nhnent/toast-ui.vue-editor) - Vue Wrapper for [TOAST UI Editor](http://ui.toast.com/tui-editor).  
-| :x: | no issue | - [ckeditor5-vue](https://github.com/ckeditor/ckeditor5-vue) - An official CKEditor 5 rich text editor component for Vue.js.  
+| :x: | [issue](https://github.com/ckeditor/ckeditor5-vue/issues/172) | - [ckeditor5-vue](https://github.com/ckeditor/ckeditor5-vue) - An official CKEditor 5 rich text editor component for Vue.js.  
 | :x: | no issue | - [yimo-vue-editor](https://github.com/yimogit/yimo-vue-editor) - A wangEditor2 component for Vue2.  
 | :x: | no issue | - [vue-mathlive](https://github.com/arnog/vue-mathlive) A MathLive math editor (mathfield) for Vue.hjs  
 | :x: | no issue | - [vue-editor-js](https://github.com/ChangJoo-Park/vue-editor-js) Next generation block styled editor. for Vue.js  
-| :x: | no issue | - [element-tiptap](https://github.com/Leecason/element-tiptap) A WYSIWYG rich-text editor using tiptap and Element UI for Vue.js  
+| :x: | [issue](https://github.com/Leecason/element-tiptap/issues/296) | - [element-tiptap](https://github.com/Leecason/element-tiptap) A WYSIWYG rich-text editor using tiptap and Element UI for Vue.js  
 | :x: | no issue | - [@mycure/vue-wysiwyg](https://github.com/mycurelabs/vue-wysiwyg) - 34Kb lightweight wysiwyg editor with NO 3rd party plugin.  
-| :x: | no issue | - [ckeditor4-vue](https://github.com/ckeditor/ckeditor4-vue) - An official CKEditor 4 rich text editor component for Vue.js.  
+| :x: | [issue](https://github.com/ckeditor/ckeditor4-vue/issues/6) | - [ckeditor4-vue](https://github.com/ckeditor/ckeditor4-vue) - An official CKEditor 4 rich text editor component for Vue.js.  
 
 ##### Image Manipulation
 
