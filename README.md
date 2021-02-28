@@ -761,7 +761,7 @@ Date / datetime / time Picker_
 
 ##### Slider
 
-| :x: | no issue | - [vue-slider-component](https://github.com/NightCatSama/vue-slider-component) - Slider for vue1.x and vue2.x.  
+| :white_check_mark: | [issue](https://github.com/NightCatSama/vue-slider-component/issues/494) | - [vue-slider-component](https://github.com/NightCatSama/vue-slider-component) - Slider for vue1.x and vue2.x.  
 | :x: | no issue | - [vue-circle-slider](https://github.com/devstark-com/vue-circle-slider) - Circle slider component for vue2.x.  
 | :x: | no issue | - [vue-slide-bar](https://github.com/biigpongsatorn/vue-slide-bar) - Very simple vue slider bar component.  
 | :x: | no issue | - [textra](https://github.com/hosein2398/Textra) - Vue js add-on to slide text.  
@@ -769,29 +769,29 @@ Date / datetime / time Picker_
 | :x: | no issue | - [iv-slider](https://github.com/lycHub/v-slider) - Slider component for vue2.x.  
 | :x: | no issue | - [vue-histogram-slider](https://github.com/oguzhaninan/vue-histogram-slider) - Range slider with histogram for Vue.js  
 | :x: | no issue | - [xns-seek-bar](https://github.com/xinnks/xns-seek-bar) - A seekable progress plugin for Vue 2.x.  
-| :x: | no issue | - [@vueform/slider](https://github.com/vueform/slider) - Vue 3 slider component with multihandles, tooltips merging and formatting.  
+| :white_check_mark: | no issue | - [@vueform/slider](https://github.com/vueform/slider) - Vue 3 slider component with multihandles, tooltips merging and formatting.  
 
  ##### Drag and Drop
 
-| :x: | no issue | - [vuedraggable](https://github.com/SortableJS/Vue.Draggable) - Vue component allowing drag-and-drop sorting in sync with View-Model. Based on Sortable.js.  
+| :white_check_mark: | MIT | - [vuedraggable](https://github.com/SortableJS/Vue.Draggable) - Vue component allowing drag-and-drop sorting in sync with View-Model. Based on Sortable.js.  
 | :x: | no issue | - [vue-dragula](https://github.com/Astray-git/vue-dragula) - Drag and drop so simple it hurts.  
 | :x: | no issue | - [vue2-dragula](https://github.com/kristianmandrup/vue2-dragula) - A `vue-dragula` fork for `Vue2`, with a lot of improvements.  
 | :x: | no issue | - [awe-dnd](https://github.com/hilongjw/vue-dragging) - A sortable list directive with Vue.  
 | :x: | no issue | - [vue-draggable-resizable](https://github.com/mauricius/vue-draggable-resizable) - Vue2 component for draggable and resizable elements.  
 | :x: | no issue | - [vddl](https://github.com/hejianxian/vddl) - Vue components for modifying lists with the HTML5 drag & drop API, supports VueJs versions 1 and 2.  
 | :x: | no issue | - [vue-drag-drop](https://github.com/cameronhimself/vue-drag-drop) - A minimal and lightweight wrapper for the HTML5 Drag and Drop API.  
-| :x: | no issue | - [vue-swing](https://github.com/goweiwen/vue-swing) - A swipeable cards interface, as seen in apps like Jelly and Tinder.  
+| :x: | [issue](https://github.com/goweiwen/vue-swing/issues/32) | - [vue-swing](https://github.com/goweiwen/vue-swing) - A swipeable cards interface, as seen in apps like Jelly and Tinder.  
 | :x: | no issue | - [vue-slicksort](https://github.com/Jexordexan/vue-slicksort) - A dependency-free set of mixins for animated, touch-friendly, sortable lists  
 | :x: | no issue | - [draggable-vue-directive](https://github.com/IsraelZablianov/draggable-vue-directive) - A simple directive to handle drag and drop of any Vue component.  
-| :x: | no issue | - [vue-smooth-dnd](https://github.com/kutlugsahin/vue-smooth-dnd) - Vue wrappers of smooth-dnd library. drag and drop, sortable library covering for many cases.  
-| :x: | no issue | - [vue-drag-resize](https://github.com/kirillmurashov/vue-drag-resize) - A dependency-free Vue component for draggable and resizable elements with aspect ratio, reactive props etc  
+| :x: | [issue](https://github.com/kutlugsahin/vue-smooth-dnd/issues/166) | - [vue-smooth-dnd](https://github.com/kutlugsahin/vue-smooth-dnd) - Vue wrappers of smooth-dnd library. drag and drop, sortable library covering for many cases.  
+| :x: | [issue](https://github.com/kirillmurashov/vue-drag-resize/issues/102) | - [vue-drag-resize](https://github.com/kirillmurashov/vue-drag-resize) - A dependency-free Vue component for draggable and resizable elements with aspect ratio, reactive props etc  
 | :x: | no issue | - [vue-drag-it-dude](https://github.com/Esvalirion/vue-drag-it-dude) - Vue2 component, that allows you to drag object wherever you want.  
 | :x: | no issue | - [vue-draggable](https://github.com/Vivify-Ideas/vue-draggable) - Vue Drag and Drop library without any dependency. Simple and easy to use.  
-| :x: | no issue | - [vue-nestable](https://github.com/rhwilr/vue-nestable) - A simple drag & drop hierarchical list made as a vue component.  
-| :x: | no issue | - [vue-tinder](https://github.com/shanlh/vue-tinder) - Have your own Tinder and TanTan.  
+| :x: | [issue](https://github.com/rhwilr/vue-nestable/issues/96) | - [vue-nestable](https://github.com/rhwilr/vue-nestable) - A simple drag & drop hierarchical list made as a vue component.  
+| :white_check_mark: | MIT [issue](https://github.com/shanlh/vue-tinder/issues/23) | - [vue-tinder](https://github.com/shanlh/vue-tinder) - Have your own Tinder and TanTan.  
 | :x: | no issue | - [vue-card-swipe](https://github.com/eshengsky/vue-card-swipe) - A touch slider for vue.js, support sliding in any direction to switch cards, compatible with PC and mobile.  
 | :x: | no issue | - [vue-drag-n-drop](https://github.com/smaharj1/vue-drag-and-drop-kanban) - A simple kanban board where the items can be dragged and dropped from the list on to the board.  
-| :x: | no issue | - [vue-card-stack](https://github.com/rodleviton/vue-card-stack) - Stackable, swipeable, tweakable Vue card component.  
+| :x: | [issue](https://github.com/rodleviton/vue-card-stack/issues/2) | - [vue-card-stack](https://github.com/rodleviton/vue-card-stack) - Stackable, swipeable, tweakable Vue card component.  
 
 ##### Autocomplete
 
