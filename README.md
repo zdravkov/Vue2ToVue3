@@ -800,7 +800,7 @@ Autosuggest / autocomplete / typeahead_
 | :x: | no issue | - [vue-instant](https://github.com/santiblanko/vue-instant) - Vue instant allows you to easily create custom search controls with auto suggestions for your vue 2 applications.  
 | :x: | no issue | - [v-autocomplete](https://github.com/paliari/v-autocomplete) - Autocomplete component for Vue.js  
 | :x: | no issue | - [vue-auto-complete](https://github.com/charliekassel/vuejs-autocomplete) - Autocomplete for Vue2. Works with objects or api calls.  
-| :x: | no issue | - [vue-autosuggest](https://github.com/Educents/vue-autosuggest) - WAI-ARIA complete Autosuggest component with full customization over rendering and styling.  
+| :x: | [issue](https://github.com/darrenjennings/vue-autosuggest/issues/211) | - [vue-autosuggest](https://github.com/Educents/vue-autosuggest) - WAI-ARIA complete Autosuggest component with full customization over rendering and styling.  
 | :x: | no issue | - [v-autosuggest](https://github.com/soraino/v-autosuggest) - A simple modular Vuejs component that autosuggest input from a dynamic or static data querying.  
 | :x: | no issue | - [autocomplete](https://github.com/ieski/AutoComplete) - Simple Autocomplete component for Vue.js 2.\*  
 | :x: | no issue | - [vue-infinite-autocomplete](https://github.com/Attrash-Islam/vue-infinite-autocomplete) - Vue infinite-autocomplete wrapper for Vue.js 2.\*  
@@ -808,7 +808,7 @@ Autosuggest / autocomplete / typeahead_
 | :x: | no issue | - [v-suggest](https://github.com/TerryZ/v-suggest) - A Vue2 plugin for input content suggestions, support keyboard to quick pick.  
 | :x: | no issue | - [vue-bootstrap-typeahead](https://github.com/alexurquhart/vue-bootstrap-typeahead) - An typeahead/autocomplete component for Vue2 using Bootstrap 4 CSS.  
 | :x: | no issue | - [vue-email-dropdown](https://github.com/DannyFeliz/vue-email-dropdown) - An autocomplete for custom email domains.  
-| :x: | no issue | - [vue-combo-blocks](https://github.com/sssmi/vue-combo-blocks) - Small, accessible, customizable and "renderless" autocomplete component for Vue.  
+| :x: | [issue](https://github.com/sssmi/vue-combo-blocks/issues/12) | - [vue-combo-blocks](https://github.com/sssmi/vue-combo-blocks) - Small, accessible, customizable and "renderless" autocomplete component for Vue.  
 
 ##### Type Select
 
