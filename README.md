@@ -961,7 +961,7 @@ Display images_
 | :x: | no issue | - [vue-gmaps](https://github.com/ridermansb/vue-gmaps) - Search places and address using Google Maps API.  
 | :x: | no issue | - [vuep](https://github.com/QingWei-Li/vuep) - A component for rendering Vue components with live editor and preview.  
 | :x: | no issue | - [vue-places](https://github.com/Gomah/vue-places) - Places component is based on places.js for Vue 2.x. Turn any input into an address autocomplete.  
-| :x: | no issue | - [vue-password-strength-meter](https://github.com/apertureless/vue-password-strength-meter) - Password strength meter based on zxcvbn in vue.js.  
+| :x: | [issue](https://github.com/apertureless/vue-password-strength-meter/issues/54) | - [vue-password-strength-meter](https://github.com/apertureless/vue-password-strength-meter) - Password strength meter based on zxcvbn in vue.js.  
 | :x: | no issue | - [vue-float-label](https://github.com/bkzl/vue-float-label) - Float label pattern for Vue.js.  
 | :x: | no issue | - [vue-longpress](https://github.com/javisperez/vuelongpress) - A VueJS (2.x) button component that requires you to keep pressing to confirm a given action.  
 | :x: | no issue | - [vue-google-autocomplete](https://github.com/olefirenko/vue-google-autocomplete) - A Vue.js (2.x) autosuggest component for the Google Maps Places API.  
@@ -970,10 +970,10 @@ Display images_
 | :x: | no issue | - [vue-submit](https://github.com/NxtChg/pieces/tree/master/js/vue/vue-submit) - Simple implementation of Ladda ([1](http://lab.hakim.se/ladda/), [2](https://msurguy.github.io/ladda-bootstrap/)) in less than 90 lines of code with no dependencies.  
 | :x: | no issue | - [vue-rate](https://github.com/SinanMtl/vue-rate) - Rate component for Vue  
 | :x: | no issue | - [vuetify-google-autocomplete](https://github.com/MadimetjaShika/vuetify-google-autocomplete) - A Vuetify ready Vue.js (2.x) autosuggest component for the Google Maps Places API.  
-| :x: | no issue | - [vue-ripple-directive](https://github.com/PygmySlowLoris/vue-ripple-directive) - Material Ripple Effect as Vue Directive.  
+| :x: | [issue](https://github.com/PygmySlowLoris/vue-ripple-directive/issues/32) | - [vue-ripple-directive](https://github.com/PygmySlowLoris/vue-ripple-directive) - Material Ripple Effect as Vue Directive.  
 | :x: | no issue | - [vue-fab](https://github.com/PygmySlowLoris/vue-fab) - Vue Floating Action Button.  
 | :x: | no issue | - [vue-complexify](https://github.com/mazipan/vue-complexify) - Vuejs porting library from jquery.complexify.js.  
-| :x: | no issue | - [vue-mc](https://github.com/FiguredLimited/vue-mc) - Models and Collections for Vue.js  
+| :x: | [issue](https://github.com/FiguredLimited/vue-mc/issues/162) | - [vue-mc](https://github.com/FiguredLimited/vue-mc) - Models and Collections for Vue.js  
 | :x: | no issue | - [vue-stars](https://www.tallent.us/vue-stars/) - Highly customizable rating control (using stars or other characters)  
 | :x: | no issue | - [vue-confirmation-button](https://github.com/imRohan/vue-confirmation-button) - Customizable confirmation button that requires users to read messages before performing an action  
 | :x: | no issue | - [vue-poll](https://github.com/ppietris/vue-poll) - A Vue.js component for voting  
@@ -989,12 +989,12 @@ Display images_
 | :x: | no issue | - [vue-simple-password-meter](https://github.com/miladd3/vue-simple-password-meter) - Lightweight password strength meter with no dependency  
 | :x: | no issue | - [vue-autosizer](https://github.com/hfalucas/vue-autosizer) - A light replacement for built-in `<textarea>` and `<input>` elements allowing them to automatically stretch to fit the content.  
 | :x: | no issue | - [vue-interactive-paycard](https://github.com/muhammederdem/vue-interactive-paycard) - A fantastic credit card form with smooth and sweet micro-interactions.  
-| :x: | no issue | - [vue-paycard](https://github.com/guastallaigor/vue-paycard) - Credit card component made with Vue.js.  
+| :x: | [issue](https://github.com/guastallaigor/vue-paycard/issues/13) | - [vue-paycard](https://github.com/guastallaigor/vue-paycard) - Credit card component made with Vue.js.  
 | :x: | no issue | - [vue-list-picker](https://github.com/guastallaigor/vue-list-picker) - Just a simple list picker component made with Vue.js.  
 
 ##### Wizard
 
-| :x: | no issue | - [vue-form-wizard](https://github.com/cristijora/vue-form-wizard) - Tab based component which can replace classic bootstrap & jQuery form wizards  
+| :x: | [issue](https://github.com/BinarCode/vue-form-wizard/issues/353) | - [vue-form-wizard](https://github.com/cristijora/vue-form-wizard) - Tab based component which can replace classic bootstrap & jQuery form wizards  
 | :x: | no issue | - [vue-stepper](https://github.com/PygmySlowLoris/vue-stepper) - A simple stepper with simple actions such as next, back and end to perform simple forms.  
 | :x: | no issue | - [vue-stepper-component](https://github.com/adi518/vue-stepper-component) - A fully customizable Stepper component with Vuex support and Zero dependencies.  
 
@@ -1005,7 +1005,7 @@ Display images_
 ##### Comment System
 
 | :x: | no issue | - [vue-comment-grid](https://github.com/TugayYaldiz/vue-comment-grid) - 💬 Responsive Vue.js comment system plugin that built with CSS Grid and Firebase REST API + Authentication.  
-| :x: | no issue | - [fastcomments-vue](https://github.com/fastcomments/fastcomments-vue) - 💬 A Vue component for FastComments, a live commenting system.  
+| :white_check_mark: | [issue](https://github.com/fastcomments/fastcomments-vue-next) | - [fastcomments-vue](https://github.com/fastcomments/fastcomments-vue) - 💬 A Vue component for FastComments, a live commenting system.  
 
 #### Canvas
 
