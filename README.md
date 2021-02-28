@@ -311,7 +311,7 @@ Overlay / modal / alert / dialog / lightbox / popup_
 | :x: | no issue | - [vue-morris](https://github.com/bbonnin/vue-morris) - VueJS component wrapping Morris.js.  
 | :x: | [issue](https://github.com/apertureless/vue-chartjs/issues/637) | - [vue-chartjs](https://github.com/apertureless/vue-chartjs) - Vue.js wrapper for Chart.js.  
 | :x: | no issue | - [hchs-vue-charts](https://github.com/hchstera/vue-charts) - Based on Vue2.0 wrapper for ChartJs.  
-| :x: | [issue](https://github.com/ecomfe/vue-echarts/issues/476) | - [vue-echarts](https://github.com/Justineo/vue-echarts) - ECharts component for Vue.js.  
+| :white_check_mark: | [issue](https://github.com/ecomfe/vue-echarts/issues/476) | - [vue-echarts](https://github.com/Justineo/vue-echarts) - ECharts component for Vue.js.  
 | :x: | no issue | - [vuetrend](https://github.com/QingWei-Li/vue-trend) - Simple, elegant spark lines for Vue.js.  
 | :white_check_mark: | MIT | - [vue-highcharts](https://github.com/weizhenye/vue-highcharts) - Highcharts component for Vue.  
 | :x: | no issue | - [vue-echarts-v3](https://github.com/xlsdg/vue-echarts-v3) - Vue.js(v2.x+) component wrap for ECharts.js(v3.x+).  
@@ -331,7 +331,7 @@ Overlay / modal / alert / dialog / lightbox / popup_
 | :x: | no issue | - [v-chart-plugin](https://github.com/ignoreintuition/v-chart-plugin) - A customizable component for adding D3 charts that binds to your components data.  
 | :x: | no issue | - [vue-jqxchart](https://github.com/jqwidgets/vue/tree/master/chart) - Charting component with Pie, Bubble, Donut, Line, Bar, Column, Area, Waterfall, Polar & Spider series.  
 | :x: | no issue | - [toast-ui.vue-chart](https://github.com/nhnent/toast-ui.vue-chart) - Vue Wrapper for [TOAST UI Chart](http://ui.toast.com/tui-chart/).  
-| :x: | [issue](https://github.com/apexcharts/vue-apexcharts/issues/324) | - [vue-apexcharts](https://github.com/apexcharts/vue-apexcharts) - Vue.js component for [ApexCharts](https://github.com/apexcharts/apexcharts.js).  
+| :white_check_mark: | [repo](https://github.com/apexcharts/vue3-apexcharts)[issue](https://github.com/apexcharts/vue-apexcharts/issues/324) | - [vue-apexcharts](https://github.com/apexcharts/vue-apexcharts) - Vue.js component for [ApexCharts](https://github.com/apexcharts/apexcharts.js).  
 | :x: | no issue | - [vue-doughnut-chart](https://github.com/mazipan/vue-doughnut-chart) - Doughnut chart component for Vue.js.  
 | :x: | [issue](https://github.com/ElemeFE/v-charts/issues/876) | - [v-charts](https://github.com/ElemeFE/v-charts) - Chart components based on Vue2.x and Echarts.  
 | :x: | [issue](https://github.com/dumptyd/vue-css-donut-chart/issues/44) | - [vue-css-donut-chart](https://github.com/dumptyd/vue-css-donut-chart) - Lightweight Vue component for drawing pure CSS donut charts.  
@@ -659,12 +659,12 @@ Display non-editable events in a Calendar_
 | :x: | no issue | - [vue-swipe-tabs](https://github.com/zhangxiang958/vue-tab) - A touch swipe tab component for vue.js(vue2).  
 | :x: | no issue | - [vue-tabs-component](https://github.com/spatie/vue-tabs-component) - An easy way to display tabs with Vue.  
 | :x: | no issue | - [vue-k-tabs](https://github.com/kevindesousa/vue-k-tabs) - A simple tabs components with Gitlab design.  
-| :x: | no issue | - [vue-tabs-with-active-line](https://github.com/karambafe/vue-tabs-with-active-line) - Simple Vue 2 component, that allows you to make tabs with moving bottom line  
+| :x: | [issue](https://github.com/karambafe/vue-tabs-with-active-line/issues/21) | - [vue-tabs-with-active-line](https://github.com/karambafe/vue-tabs-with-active-line) - Simple Vue 2 component, that allows you to make tabs with moving bottom line  
 | :x: | no issue | - [vue-tabs-chrome](https://github.com/viewweiwu/vue-tabs-chrome) - A Vue component for Chrome-like tabs.  
 | :x: | no issue | - [vue-tiny-tabs](https://github.com/mevinoth/vue-tiny-tabs) - A minimalistic tabs component as tinytabs Vuejs wrapper (size < 3.1kb)  
 | :x: | no issue | - [vue-lumino](https://github.com/tupilabs/vue-lumino) - A component to use Vue.js with Jupyter Lumino (PhosphorJS), integrating DOM & VDOM through event listeners and Vue reactivity system.  
 | :x: | no issue | - [vue-router-tab](https://github.com/bhuh12/vue-router-tab) - Vue.js tab components, based on Vue Router.  
-| :x: | no issue | - [vue3-tabs](https://github.com/HJ29/vue3-tabs) - A touch swipe tabs component for vue 3  
+| :white_check_mark: | no issue | - [vue3-tabs](https://github.com/HJ29/vue3-tabs) - A touch swipe tabs component for vue 3  
 
 #### Form
 
@@ -673,7 +673,7 @@ Let the user create & edit data_
 ##### Phone Number Input Formatter
 
 | :x: | no issue | - [vue-phone-number-input](https://github.com/LouisMazel/vue-phone-number-input) - A beautiful input to format & valid phone number with country code :fire:  
-| :x: | no issue | - [vue-tel-input](https://github.com/EducationLink/vue-tel-input) - International Telephone Input with Vue.  
+| :x: | [issue](https://github.com/EducationLink/vue-tel-input/issues/229) | - [vue-tel-input](https://github.com/EducationLink/vue-tel-input) - International Telephone Input with Vue.  
 
 ##### Pincode Input
 
@@ -682,9 +682,9 @@ Let the user create & edit data_
 ##### Picker
 
 | :x: | no issue | - [vue-smooth-picker](https://github.com/hiyali/vue-smooth-picker) - A smooth picker component for Vue 2.x, like iOS native datetime picker.  
-| :x: | no issue | - [vue-scroll-picker](https://github.com/wan2land/vue-scroll-picker) - A scroll picker component for Vue 2.x. Support all gestures of mouse(also wheel) and touch.  
+| :x: | [issue](https://github.com/wan2land/vue-scroll-picker/issues/206) | - [vue-scroll-picker](https://github.com/wan2land/vue-scroll-picker) - A scroll picker component for Vue 2.x. Support all gestures of mouse(also wheel) and touch.  
 | :x: | no issue | - [vue-fontawesome-picker](https://github.com/zolamk/vue-fontawesome-picker) - a font awesome icon picker component for Vue 2.x.  
-| :x: | no issue | - [vue3-scroll-picker](https://github.com/HJ29/vue3-scroll-picker) - A scroll picker component for Vue 3.  
+| :white_check_mark: | no issue | - [vue3-scroll-picker](https://github.com/HJ29/vue3-scroll-picker) - A scroll picker component for Vue 3.  
 
 ##### Generator
 
