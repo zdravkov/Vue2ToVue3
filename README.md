@@ -738,26 +738,26 @@ Date / datetime / time Picker_
 
 ##### Select
 
-| :x: | no issue | - [vue-select](https://github.com/sagalbot/vue-select) - A native Vue.js component that provides similar functionality to Select2 without the overhead of jQuery.  
-| :x: | no issue | - [vue-multiselect](https://github.com/monterail/vue-multiselect) - Universal select/multiselect/tagging component for Vue.js.  
+| :x: | [issue](https://github.com/sagalbot/vue-select/issues/1373) | - [vue-select](https://github.com/sagalbot/vue-select) - A native Vue.js component that provides similar functionality to Select2 without the overhead of jQuery.  
+| :x: | [issue](https://github.com/shentao/vue-multiselect/issues/1369) | - [vue-multiselect](https://github.com/monterail/vue-multiselect) - Universal select/multiselect/tagging component for Vue.js.  
 | :x: | no issue | - [stf-vue-select](https://github.com/stfalcon-studio/stf-vue-select) - most flexible and customized select Vue2  
 | :x: | no issue | - [vue-select-image](https://github.com/mazipan/vue-select-image) - Vue 2 Component for selecting image from list  
-| :x: | no issue | - [@riophae/vue-treeselect](https://github.com/riophae/vue-treeselect) - A multi-select component with nested options support for Vue.js.  
+| :x: | [issue](https://github.com/riophae/vue-treeselect/issues/422) | - [@riophae/vue-treeselect](https://github.com/riophae/vue-treeselect) - A multi-select component with nested options support for Vue.js.  
 | :x: | no issue | - [@k186/pd-select](https://github.com/k186/pd-select) - A mobile UI component like IOS picker for Vue 2.x,can be wheel pick what ever you defined.  
 | :x: | no issue | - [vue-dropdowns](https://github.com/mikerodham/vue-dropdowns) - A minimalistic and adaptable way to display select boxes if using objects for vue2.x  
 | :x: | no issue | - [v-cascade](https://github.com/zanseven007/v-cascade) - A lovely component of cascade selector with Vue 2.x (Support both of PC and Mobile)  
 | :x: | no issue | - [vue-multi-select](https://github.com/IneoO/vue-multi-select) - A custom component to make select/multiselect for Vue2.  
 | :x: | no issue | - [v-region](https://github.com/TerryZ/v-region) - A simple region selector, provide Chinese administrative division data.  
 | :x: | no issue | - [v-selectpage](https://github.com/TerryZ/v-selectpage) - A powerful selector for Vue2, list or table view of pagination, use tags for multiple selection, i18n and server-side resources supports.  
-| :x: | no issue | - [vue-cool-select](https://github.com/iliyaZelenko/vue-cool-select) - Bootstrap / Material Design theme, support slots, autocomplete, events, validation and more.  
+| :x: | [issue](https://github.com/iliyaZelenko/vue-cool-select/issues/381) | - [vue-cool-select](https://github.com/iliyaZelenko/vue-cool-select) - Bootstrap / Material Design theme, support slots, autocomplete, events, validation and more.  
 | :x: | no issue | - [@myena/advanced-select](https://github.com/myENA/advanced-select) - Single/Multiple Select component with search, controls for (de)select all and a Bootstrap 3 theme  
 | :x: | no issue | - [@alfsnd/vue-bootstrap-select](https://github.com/Sandalf/vue-bootstrap-select) - Vue version of [bootstrap-select](https://github.com/snapappointments/bootstrap-select/).  
 | :x: | no issue | - [@SamuelTrottier/vue-wheel-select](https://github.com/SamuelTrottier/vue-wheel-select) - A simple scrolling select component.  
 | :x: | no issue | - [vue-search-select](https://github.com/moreta/vue-search-select) - Searchable select components and semantic-ui's dropdown compatible.  
-| :x: | no issue | - [vue-gridmultiselect](https://github.com/ProticM/vue-gridmultiselect) - Simple multi-select component with items displayed in a table like UI  
+| :x: | [issue](https://github.com/ProticM/vue-gridmultiselect/issues/44) | - [vue-gridmultiselect](https://github.com/ProticM/vue-gridmultiselect) - Simple multi-select component with items displayed in a table like UI  
 | :x: | no issue | - [vue-select-sides](https://github.com/juliorosseti/vue-select-sides) - A component for Vue.js to select double-sided data (2-sides).  
 | :x: | no issue | - [vue-selectize](https://github.com/isneezy/vue-selectize) - A Vue.js component wrapper around Selectize.js, a vanilla js select component  
-| :x: | no issue | - [@vueform/multiselect](https://github.com/vueform/multiselect) - Vue 3 multiselect component with single select, multiselect and tagging options.  
+| :white_check_mark: | no issue | - [@vueform/multiselect](https://github.com/vueform/multiselect) - Vue 3 multiselect component with single select, multiselect and tagging options.  
 
 ##### Slider
 
