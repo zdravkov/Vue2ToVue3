@@ -815,7 +815,7 @@ Autosuggest / autocomplete / typeahead_
 Let the user select a tag / something while typing_
 
 | :x: | no issue | - [vue-input-tag](https://github.com/matiastucci/vue-input-tag) - Vue.js 2.0 Input Tag Component.  
-| :x: | no issue | - [v-distpicker](https://github.com/jcc/v-distpicker) A flexible, highly available district picker for picking provinces, cities and districts of China for Vue.js 2.x.  
+| :x: | [issue](https://github.com/jcc/v-distpicker/issues/144) | - [v-distpicker](https://github.com/jcc/v-distpicker) A flexible, highly available district picker for picking provinces, cities and districts of China for Vue.js 2.x.  
 | :x: | no issue | - [vue-img-inputer](https://github.com/waynecz/vue-img-inputer) A graceful, highly customizable img type input for Vue 2  
 | :x: | no issue | - [vue-img-preview](https://github.com/dameety/vue-image-preview) An image input preview component in vue 2  
 | :x: | no issue | - [v-image](https://github.com/vinayakkulkarni/v-image) :camera: Tiny little component for input type=file (< 1kb, gzipped)  
@@ -825,11 +825,11 @@ Let the user select a tag / something while typing_
 
 ##### Color Picker
 
-| :x: | no issue | - [vue-color](https://github.com/xiaokaike/vue-color) - Vue Color Pickers for Sketch, Photoshop, Chrome & more.  
-| :x: | no issue | - [vue-swatches](https://github.com/saintplay/vue-swatches) - Help the user picking beautiful colors!  
+| :x: | [issue](https://github.com/xiaokaike/vue-color/issues/225) | - [vue-color](https://github.com/xiaokaike/vue-color) - Vue Color Pickers for Sketch, Photoshop, Chrome & more.  
+| :x: | [issue](https://github.com/saintplay/vue-swatches/issues/65) | - [vue-swatches](https://github.com/saintplay/vue-swatches) - Help the user picking beautiful colors!  
 | :x: | no issue | - [radial-color-picker](https://github.com/radial-color-picker/vue-color-picker) - Minimalistic color picker with a focus on size, accessibility and performance.  
 | :x: | no issue | - [vue-color-picker-board](https://github.com/shlomnissan/vue-color-picker-board) - Vue Color Picker component designed for humans!  
-| :x: | no issue | - [verte](https://github.com/baianat/verte) - A Complete Vue.js Color Picker Component.
+| :x: | [issue](https://github.com/baianat/verte/issues/65) | - [verte](https://github.com/baianat/verte) - A Complete Vue.js Color Picker Component.
 
 ##### Switch
 
