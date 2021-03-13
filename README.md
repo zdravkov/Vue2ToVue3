@@ -682,7 +682,7 @@ Let the user create & edit data_
 ##### Picker
 
 | :x: | no issue | - [vue-smooth-picker](https://github.com/hiyali/vue-smooth-picker) - A smooth picker component for Vue 2.x, like iOS native datetime picker.  
-| :x: | [issue](https://github.com/wan2land/vue-scroll-picker/issues/206) | - [vue-scroll-picker](https://github.com/wan2land/vue-scroll-picker) - A scroll picker component for Vue 2.x. Support all gestures of mouse(also wheel) and touch.  
+| :white_check_mark: | [issue](https://github.com/wan2land/vue-scroll-picker/issues/206) | - [vue-scroll-picker](https://github.com/wan2land/vue-scroll-picker) - A scroll picker component for Vue 2.x. Support all gestures of mouse(also wheel) and touch.  
 | :x: | no issue | - [vue-fontawesome-picker](https://github.com/zolamk/vue-fontawesome-picker) - a font awesome icon picker component for Vue 2.x.  
 | :white_check_mark: | no issue | - [vue3-scroll-picker](https://github.com/HJ29/vue3-scroll-picker) - A scroll picker component for Vue 3.  
 
@@ -1070,52 +1070,52 @@ Layout for the overall / main view_
 | :x: | [issue](https://github.com/fuxingloh/vue-masonry-wall/issues/24) | - [vue-masonry-wall](https://github.com/fuxingloh/vue-masonry-wall) - A pure vue responsive masonry layout without direct dom manipulation, ssr friendly and lazy loading.  
 | :x: | no issue | - [vue-horizontal-list](https://github.com/fuxingloh/vue-horizontal-list) - A pure vue responsive horizontal list layout with ssr support, mobile and touch friendly.  
 
-| :x: | no issue | ### Frameworks
+### Frameworks
 
-| :x: | no issue | #### Responsive
+ #### Responsive
 
-| :x: | no issue | _Set of components + responsive layout system_
+_Set of components + responsive layout system_
 
-| :x: | no issue | - [quasar-framework](https://github.com/quasarframework/quasar) - Quasar Framework. Build responsive websites, hybrid mobile Apps and Electron apps using same code, with VueJs 2.  
-| :x: | no issue | - [vue-material](https://github.com/vuematerial/vue-material) - Material design for Vue.js.  
+| :white_check_mark: BETA | [issue](https://github.com/quasarframework/quasar/issues/7836) | - [quasar-framework](https://github.com/quasarframework/quasar) - Quasar Framework. Build responsive websites, hybrid mobile Apps and Electron apps using same code, with VueJs 2.  
+| :x: | [issue](https://github.com/vuematerial/vue-material/issues/2277) | - [vue-material](https://github.com/vuematerial/vue-material) - Material design for Vue.js.  
 | :x: | no issue | - [vuetify](https://github.com/vuetifyjs/vuetify) - Material Component Framework for Vue.js 2.  
 | :x: | no issue | - [muse-ui](https://github.com/museui/muse-ui) - Material Component library for Vue.js 2.  
-| :x: | no issue | - [buefy](https://github.com/rafaelpimpa/buefy) - Components based on Bulma framework.  
-| :x: | no issue | - [element-ui](https://github.com/ElemeFE/element) - A Vue.js 2.0 UI Toolkit for Web.  
+| :x: | [issue](https://github.com/buefy/buefy/issues/2505) | - [buefy](https://github.com/rafaelpimpa/buefy) - Components based on Bulma framework.  
+| :white_check_mark: BETA | [repo](https://github.com/element-plus/element-plus/) | - [element-ui](https://github.com/ElemeFE/element) - A Vue.js 2.0 UI Toolkit for Web.  
 | :x: | no issue | - [vue-bulma-components](https://github.com/vouill/vue-bulma-components) - Easily use bulma class syntax with vue components.  
 | :x: | no issue | - [iview-ui](https://www.iviewui.com) - A Vue.js 2.0 UI Framework for web.  
 | :x: | no issue | - [AT-UI](https://at.aotu.io) - A fresh and flat UI-Kit specially for desktop application, made with ♥ by Vue.js 2.0  
 | :x: | no issue | - [v-semantic](https://www.npmjs.com/package/v-semantic) - Implementation of [semantic-ui](https://semantic-ui.com/) for Vue  
-| :x: | no issue | - [BootstrapVue](https://github.com/bootstrap-vue/bootstrap-vue) - Bootstrap v4 components and grid system for Vue.js.  
+| :x: | [issue](https://github.com/bootstrap-vue/bootstrap-vue/issues) | - [BootstrapVue](https://github.com/bootstrap-vue/bootstrap-vue) - Bootstrap v4 components and grid system for Vue.js.  
 | :x: | no issue | - [fish-ui](https://myliang.github.io/fish-ui) - A Vue.js 2.0 UI Toolkit for Web  
 | :x: | no issue | - [zircle-ui](https://github.com/zircleUI/zircleUI) - A frontend library to develop zoomable user interfaces.  
 | :x: | no issue | - [Material Components Vue](https://github.com/matsp/material-components-vue) - wrapper around [material-components-web](https://github.com/material-components/material-components-web) for Vue.js  
 | :x: | no issue | - [VueFace](https://github.com/sudheerj/vueface) - A Vue.js 2.0 UI Component library for Web  
 | :x: | no issue | - [vuecidity](https://bitbucket.org/acidmartin/vuecidity) - UI component framework for Vue.js 2.0  
-| :x: | no issue | - [ant-design-vue](https://github.com/vueComponent/ant-design-vue) - An enterprise-class UI components based on Ant Design and Vue 2.5.0  
+| :white_check_mark: | MIT | - [ant-design-vue](https://github.com/vueComponent/ant-design-vue) - An enterprise-class UI components based on Ant Design and Vue 2.5.0  
 | :x: | no issue | - [heyui](https://github.com/heyui/heyui) - (https://www.heyui.top/en) - A Vue.js 2.0 UI Toolkit for Web.  
 | :x: | no issue | - [Carvue.js](https://carvuejs.github.io/) - IBM's Carbon Design System for Vue.js  
-| :x: | no issue | - [BalmUI](https://github.com/balmjs/balm-ui) - A modular and customizable UI library based on Material Design and Vue 3.0  
+| :white_check_mark: | MIT | - [BalmUI](https://github.com/balmjs/balm-ui) - A modular and customizable UI library based on Material Design and Vue 3.0  
 | :x: | no issue | - [Osiris UI](https://osiris-ui.github.io/osiris) - :art: A Vue.js 2.0 universal responsive UI component library  
 | :x: | no issue | - [N3-components](https://github.com/N3-components/N3-components) - Beautiful Web Components built with Vue 2  
 | :x: | no issue | - [Shards Vue](https://github.com/designrevision/shards-vue) - ✨ Sleek & UI Components Library based on the Bootstrap 4 Framework.  
-| :x: | no issue | - [Fundamental Vue](https://github.com/SAP/fundamental-vue) - Components based on SAP Fiori Fundamentals.  
-| :x: | no issue | - [Framevuerk](https://github.com/framevuerk/framevuerk) - 🚀 Fast, Responsive, Without Dependencies, Both Direction Support and Configurable UI Framework based on Vue.js.  
-| :x: | no issue | - [@Carbon/vue](https://github.com/carbon-design-system/carbon-components-vue) - Carbon Design System components from the @carbon team.  
-| :x: | no issue | - [Inkline](https://github.com/inkline/inkline/) - Inkline is a modern UI/UX Framework for Vue.js designed for creating flawless responsive web applications.  
+| :x: | [issue](https://github.com/SAP/fundamental-vue/issues/766) | - [Fundamental Vue](https://github.com/SAP/fundamental-vue) - Components based on SAP Fiori Fundamentals.  
+| :x: | [issue](https://github.com/framevuerk/framevuerk/issues/49) | - [Framevuerk](https://github.com/framevuerk/framevuerk) - 🚀 Fast, Responsive, Without Dependencies, Both Direction Support and Configurable UI Framework based on Vue.js.  
+| :x: | [issue](https://github.com/carbon-design-system/carbon-components-vue/issues/1099) | - [@Carbon/vue](https://github.com/carbon-design-system/carbon-components-vue) - Carbon Design System components from the @carbon team.  
+| :x: | [issue](https://github.com/inkline/inkline/issues/207) | - [Inkline](https://github.com/inkline/inkline/) - Inkline is a modern UI/UX Framework for Vue.js designed for creating flawless responsive web applications.  
 | :x: | no issue | - [vue-awesome-mui](https://github.com/Wscats/vue-awesome-mui) - A Vue.js 2.0 MUI Component for Web  
 | :x: | no issue | - [MDBootstrap](https://github.com/mdbootstrap/Vue-Bootstrap-with-Material-Design) - Powerful UI toolkit based on the latest Bootstrap 4 and Vue 2.6.10, providing a set of slick, responsive page templates,  layouts, components and widgets to rapidly build responsive, mobile-first websites and apps.  
-| :x: | no issue | - [vue-material-adapter](https://github.com/pgbross/vue-material-adapter) - Integration of Material Components for Vue.js which follows the best practices recommended by Google: Using Foundations and Adapters  
-| :x: | no issue | - [PrimeVue](https://primefaces.org/primevue) - The Most Complete UI Component Library for Vue  
-| :x: | no issue | - [CoreUI for Vue.js](https://github.com/coreui/coreui-vue) - CoreUI for Vue.js is a UI Component Library that offers a bunch of cross-browser, responsive, and lightweight Vue.js UI components.  
+| :x: | [issue](https://github.com/pgbross/vue-material-adapter/issues/170) | - [vue-material-adapter](https://github.com/pgbross/vue-material-adapter) - Integration of Material Components for Vue.js which follows the best practices recommended by Google: Using Foundations and Adapters  
+| :white_check_mark: | no issue | - [PrimeVue](https://primefaces.org/primevue) - The Most Complete UI Component Library for Vue  
+| :x: | [issue](https://github.com/coreui/coreui-vue/issues/126) | - [CoreUI for Vue.js](https://github.com/coreui/coreui-vue) - CoreUI for Vue.js is a UI Component Library that offers a bunch of cross-browser, responsive, and lightweight Vue.js UI components.  
 | :x: | no issue | - [DaoStyle](https://github.com/DaoCloud/dao-style) - A high quality component library built on Vue.js.  
-| :x: | no issue | - [Chakra UI Vue](https://github.com/chakra-ui/chakra-ui-vue) - ⚡ A lightweight & customizable component library to help you build accessible Vue applications and sites with speed.  
+| :x: | [issue](https://github.com/chakra-ui/chakra-ui-vue/issues/116) | - [Chakra UI Vue](https://github.com/chakra-ui/chakra-ui-vue) - ⚡ A lightweight & customizable component library to help you build accessible Vue applications and sites with speed.  
 | :x: | no issue | - [vue-canvas](https://github.com/loo41/vuc) - Vue canvas component for [vuc-identify](http://vuc.tianchenyong.top)  
-| :x: | no issue | - [oruga](https://github.com/oruga-ui/oruga) - UI components for Vue.js without CSS framework dependency.  
-| :x: | no issue | - [Wave UI](https://github.com/antoniandre/wave-ui) - An emerging UI framework for Vue.js with only the bright side. ☀️  
+| :white_check_mark: | no issue | - [oruga](https://github.com/oruga-ui/oruga) - UI components for Vue.js without CSS framework dependency.  
+| :white_check_mark: | no issue | - [Wave UI](https://github.com/antoniandre/wave-ui) - An emerging UI framework for Vue.js with only the bright side. ☀️  
 | :x: | no issue | - [vectre](https://github.com/vectrejs/vectre) - A lightweight, simple and responsive component framework based on [Spectre CSS](https://picturepan2.github.io/spectre/)  
 | :x: | no issue | - [element3](https://github.com/kkbjs/element3) - A Vue.js 3.0 UI Toolkit for Web is based on element-ui  
-| :x: | no issue | - [superBVue](https://github.com/superbvue/SuperBVue) - A Vue 3 UI Components for Web is based on boostrap v5  
+|   :white_check_mark: | no issue | - [superBVue](https://github.com/superbvue/SuperBVue) - A Vue 3 UI Components for Web is based on boostrap v5  
 | :x: | no issue | - [Qui](https://github.com/Qvant-lab/qui) - A Vue 2.x Design System for Web  
 
 #### Mobile
