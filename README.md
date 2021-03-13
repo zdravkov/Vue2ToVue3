@@ -1123,7 +1123,7 @@ _Set of components + responsive layout system_
 _UI frameworks for mobile_
 | :x: | no issue | 
 | :x: | no issue | - [Framework7-Vue](https://github.com/framework7io/framework7) - Build full-featured iOS & Android apps using Framework7 & Vue.  
-| :x: | no issue | - [vux](https://github.com/airyland/vux) - [Chinese] Vue UI Components based on WeUI.  
+| :x: | [issue](https://github.com/airyland/vux/issues/3731) | - [vux](https://github.com/airyland/vux) - [Chinese] Vue UI Components based on WeUI.  
 | :x: | no issue | - [vue-onsenui](https://github.com/OnsenUI/OnsenUI) - Mobile app development framework and SDK using HTML5 and JavaScript. Create beautiful and performant cross-platform mobile apps. Based on Web Components, and provides   
                 bindings for Angular 1, 2, React and Vue.js.
 | :x: | no issue | - [Weex](https://weex.incubator.apache.org/) - Weex provides the ability to publish cross platform, so web, Android, and IOS apps can use the same API development functions.  
@@ -1132,38 +1132,38 @@ _UI frameworks for mobile_
  _Set of components for mobile_
 
 | :x: | no issue | - [mint-ui](https://github.com/ElemeFE/mint-ui) - Mobile UI elements for Vue.js.  
-| :x: | no issue | - [vant](https://github.com/youzan/vant) - A Vue.js 2.0 Mobile UI From YouZan.  
+| :white_check_mark: | MIT | - [vant](https://github.com/youzan/vant) - A Vue.js 2.0 Mobile UI From YouZan.  
 | :x: | no issue | - [cube-ui](https://didi.github.io/cube-ui) - A fantastic mobile ui lib implement by Vue.js 2.  
 | :x: | no issue | - [mand-mobile](https://didi.github.io/mand-mobile) - A mobile UI toolkit, based on Vue.js 2, designed for financial scenes.  
-| :x: | no issue | - [NutUI](https://github.com/jdf2e/nutui/) - A Vue.js 2.0 UI Toolkit for Mobile Web  
+| :white_check_mark: | no issue | - [NutUI](https://github.com/jdf2e/nutui/) - A Vue.js 2.0 UI Toolkit for Mobile Web  
 
  #### Component Collections
 
 _Set of components without layout system_
 
 | :x: | no issue | - [vue-mdc](https://github.com/posva/vue-mdc) - Material Components Web for Vue.js.  
-| :x: | no issue | - [keen-ui](https://github.com/JosephusPaye/Keen-UI) - A lightweight collection of essential UI components written with Vue and inspired by Material Design.  
+| :x: | [issue](https://github.com/JosephusPaye/Keen-UI/issues/517) | - [keen-ui](https://github.com/JosephusPaye/Keen-UI) - A lightweight collection of essential UI components written with Vue and inspired by Material Design.  
 | :x: | no issue | - [vue-admin](https://github.com/vue-bulma/vue-admin) - Vue Admin Panel Framework, Powered by Vue 2.0 and Bulma 0.3.  
 | :x: | no issue | - [vuikit](https://github.com/vuikit/vuikit) - UIkit with all the power of Vue.  
-| :x: | no issue | - [uiv](https://github.com/uiv-lib/uiv) - Bootstrap3 components implemented by Vue2.  
+| :x: | [issue](https://github.com/uiv-lib/uiv/issues/473) | - [uiv](https://github.com/uiv-lib/uiv) - Bootstrap3 components implemented by Vue2.  
 | :x: | no issue | - [wffranco/vue-strap](https://github.com/wffranco/vue-strap) - Bootstrap 3 components built with Vue.js 2  
 | :x: | no issue | - [jsmod-vue-pc](https://github.com/chaogao/jsmod-pc-vue) - Highly scalable web components for vue 2.0  
 | :x: | no issue | - [guilhermewaess/SemVue](https://github.com/guilhermewaess/SemVue) - Semantic-ui Modules implemented with Vue 2  
 | :x: | no issue | - [office-ui-fabric-vue](https://github.com/aidewoode/office-ui-fabric-vue) - Office UI Fabric implementation for Vue.js  
 | :x: | no issue | - [vuestic-admin](https://github.com/epicmaxco/vuestic-admin) - Vue Admin Dashboard with collection of custom components. Built with Vue 2 and Bootstrap 4  
 | :x: | no issue | - [Semantic UI Vue](https://github.com/Semantic-UI-Vue/Semantic-UI-Vue) - Semantic UI integration for Vue  
-| :x: | no issue | - [vuesax](https://github.com/lusaxweb/vuesax) - Frontend vue Components for Vue.js.  
-| :x: | no issue | - [Essential JS 2 for Vue](https://www.syncfusion.com/products/vue) - Full-featured 45+ Vue.js components which includes Data Grid, Chart, Scheduler and Diagram components etc.  
+| :x: | [issue](https://github.com/lusaxweb/vuesax/issues/961) | - [vuesax](https://github.com/lusaxweb/vuesax) - Frontend vue Components for Vue.js.  
+| :x: | [issue](https://www.syncfusion.com/feedback/16977/vue-3-support-for-ej2-vue-components) | - [Essential JS 2 for Vue](https://www.syncfusion.com/products/vue) - Full-featured 45+ Vue.js components which includes Data Grid, Chart, Scheduler and Diagram components etc.  
 | :x: | no issue | - [Banshee](https://github.com/banshee-ui/banshee) - A mostly renderless Vue UI component and utility framework that ships with no CSS.  
 | :x: | no issue | - [vue-atlas](https://github.com/nvms/vue-atlas) - A library of beautiful Vue components.  
-| :x: | no issue | - [DevExtreme Vue Components](https://github.com/DevExpress/devextreme-vue) - 65+ responsive and feature-complete Vue UI components with customizable Material Design and Bootstrap compliant themes.  
+| :white_check_mark: | Commercial | - [DevExtreme Vue Components](https://github.com/DevExpress/devextreme-vue) - 65+ responsive and feature-complete Vue UI components with customizable Material Design and Bootstrap compliant themes.  
 | :x: | no issue | - [jqwidgets](https://www.jqwidgets.com/vue/) - 70+ Vue.js 2.0 UI Components with Material Design themes.  
 | :x: | no issue | - [vue-uix](https://github.com/juijs/vue-uix) - UI collection for web page implementation in Vue.js
 | :x: | no issue | - [vuedarkmode](https://github.com/LeCoupa/vuedarkmode) - A Minimalist Dark Design System for Vue.js 🎨  
-| :x: | no issue | - [Kendo UI for Vue](https://www.telerik.com/kendo-vue-ui/components/) – Over 70 UI components, including a Grid, built for business applications. Fully responsive with support for several Design Languages including Material Design and Bootstrap.  
+| :white_check_mark: | commerical | - [Kendo UI for Vue](https://www.telerik.com/kendo-vue-ui/components/) – Over 90 UI components, including a Grid, built for business applications. Fully responsive with support for several Design Languages including Material Design and Bootstrap.  
 | :x: | no issue | - [Vuent](https://github.com/arturmiz/vuent) - Vue.js components implementing Microsoft Fluent Design  
 | :x: | no issue | - [bpit/vue](https://github.com/dreambo8563/bpit-vue) - Vue components lib which is focused on effects  
-| :x: | no issue | - [vue-tailwind](https://github.com/alfonsobries/vue-tailwind) - Vue components with customizable classes ready for TailwindCSS, but compatible with any framework.  
-| :x: | no issue | - [Equal UI](https://github.com/quatrochan/Equal) - Vue UI kit based on TypeScript 🧬  
+| :x: | [issue](https://github.com/alfonsobries/vue-tailwind/issues/127) | - [vue-tailwind](https://github.com/alfonsobries/vue-tailwind) - Vue components with customizable classes ready for TailwindCSS, but compatible with any framework.  
+| :white_check_mark: | MIT | - [Equal UI](https://github.com/quatrochan/Equal) - Vue UI kit based on TypeScript 🧬  
 | :x: | no issue | - [slim-ui](https://github.com/mevinoth/slim-ui) - Minimal UI components based on Vue.js  
 | :x: | no issue | - [Vue Component Development Kit](https://github.com/christiankienle/cdk) - Unstyled, highly tested and flexible Vue components/mixins/plugins.  
