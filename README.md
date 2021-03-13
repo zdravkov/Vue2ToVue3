@@ -1171,7 +1171,7 @@ _Set of components without layout system_
 | :x: | no issue | - [vue-atlas](https://github.com/nvms/vue-atlas) - A library of beautiful Vue components.  
 | :white_check_mark: | Commercial | - [DevExtreme Vue Components](https://github.com/DevExpress/devextreme-vue) - 65+ responsive and feature-complete Vue UI components with customizable Material Design and Bootstrap compliant themes.  
 | :x: | no issue | - [jqwidgets](https://www.jqwidgets.com/vue/) - 70+ Vue.js 2.0 UI Components with Material Design themes.  
-| :x: | no issue | - [vue-uix](https://github.com/juijs/vue-uix) - UI collection for web page implementation in Vue.js
+| :x: | no issue | - [vue-uix](https://github.com/juijs/vue-uix) - UI collection for web page implementation in Vue.js  
 | :x: | no issue | - [vuedarkmode](https://github.com/LeCoupa/vuedarkmode) - A Minimalist Dark Design System for Vue.js 🎨  
 | :white_check_mark: | commerical | - [Kendo UI for Vue](https://www.telerik.com/kendo-vue-ui/components/) – Over 90 UI components, including a Grid, built for business applications. Fully responsive with support for several Design Languages including Material Design and Bootstrap.  
 | :x: | no issue | - [Vuent](https://github.com/arturmiz/vuent) - Vue.js components implementing Microsoft Fluent Design  
