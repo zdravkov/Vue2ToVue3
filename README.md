@@ -7,11 +7,11 @@
 
 # Vue2ToVue3 - This is a list of all the UI Components and libraries from [Awesome Vue](https://github.com/vuejs/awesome-vue) repository that have been updated to Vue 3. 
 
-I forked data from awesome vue repository on 30.1.2021 and checked all the repositories for possible Vue 3 support or items. I have also subscribed to the available Vue 3 issues and listed them here so that I could update the ones that will soon support Vue 3.
+I forked data from awesome vue repository and checked all the repositories for possible Vue 3 support or items. I have also subscribed to the available Vue 3 issues that I found and listed them here so that I could update the ones that will soon support Vue 3. I am also following the new PRs to Awesome Vue so I could update the newly created components accordingly.
 
 Hope you find it helpful. If you like it please share and star. 
 
-Any improvement ideas or pull requests for missing components are more than welcomed.
+Any new or missed data, improvement ideas or pull requests for missing components are more than welcomed.
 
   ### UI Components
   
