@@ -157,7 +157,7 @@ A slim progress bar at the top of the page_
 
 Tooltips / popovers
 
-| :x: | [issue](https://github.com/Akryum/v-tooltip/issues/545) | - [v-tooltip](https://github.com/Akryum/vue-tooltip) - Easy tooltips with Vue 2.x.  
+|  :white_check_mark:  | MIT | - [v-tooltip](https://github.com/Akryum/vue-tooltip) - Easy tooltips with Vue 2.x.  
 | :x: | no issue | - [vue-popper-component](https://github.com/antongorodezkiy/vue-popper-component) - Popper.js directive for Vue.js.  
 | :x: | [issue](https://github.com/hekigan/vue-directive-tooltip/issues/64) | - [vue-directive-tooltip](https://github.com/hekigan/vue-directive-tooltip) - Simple, flexible tooltip directive (based on Popper.js) [![Vue.js](https://img.shields.io/badge/vue-2-green.svg)](https://vuejs.org)  
 | :x: | [issue](https://github.com/RobinCK/vue-popper/issues/141) | - [vue-popperjs](https://github.com/RobinCK/vue-popper) - VueJS 2.x popover component  
@@ -1053,7 +1053,7 @@ Layout for the overall / main view_
 | :x: | [issue](https://github.com/shershen08/vue-masonry/issues/110) | - [vue-masonry](https://github.com/shershen08/vue-masonry) - Vue.js directive for masonry blocks layouting.  
 | :x: | no issue | - [vue-fraction-grid](https://github.com/bkzl/vue-fraction-grid) - Flexbox based responsive fraction grid system for Vue.js.  
 | :x: | [issue](https://github.com/tangbc/vue-virtual-scroll-list/issues/253) | - [vue-virtual-scroll-list](https://github.com/tangbc/vue-virtual-scroll-list) - A vue (2.x) component support big data by using virtual scroll list.  
-| :x: | [issue](https://github.com/Akryum/vue-virtual-scroller/issues/478) | - [vue-virtual-scroller](https://github.com/Akryum/vue-virtual-scroller) - Component to scroll a large amount of elements efficiently (Vue 2.x).  
+| Akryum | MIT | - [vue-virtual-scroller](https://github.com/Akryum/vue-virtual-scroller) - Component to scroll a large amount of elements efficiently (Vue 2.x).  
 | :x: | no issue | - [vue-virtualscroll](https://github.com/ddgll/vue-virtualscroll) - [Vue 2.x] component to virtual scroll things.  
 | :x: | no issue | - [vue-inview](https://github.com/rachmanzz/vue-inview) - [Vue 2.x] Viewport, get notification when DOM element is entered or leave.  
 | :x: | no issue | - [dnd-grid](https://github.com/dattn/dnd-grid) - A vuejs grid with draggable and resizable boxes  
