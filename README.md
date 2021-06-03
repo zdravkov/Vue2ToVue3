@@ -181,7 +181,7 @@ Overlay / modal / alert / dialog / lightbox / popup_
 | :x: | no issue | - [vue-dialog-drag](https://github.com/emiliorizzo/vue-dialog-drag) - Draggable dialog  
 | :x: | no issue | - [vue-ya-semantic-modal](https://github.com/qgp9/vue-ya-semantic-modal) - Yet another semantic-ui modal component for Vue2 without Jquery but with Vue transition  
 | :x: | no issue | - [vue-pure-lightbox](https://github.com/DCzajkowski/vue-pure-lightbox) - Very simple lightbox plugin without any dependencies - only Vue! 🖼  
-| :x: | no issue | - [v-viewer](https://github.com/mirari/v-viewer) - Image viewer component for vue, supports rotation, scale, zoom and so on, based on [viewer.js](https://github.com/fengyuanchen/viewerjs)  
+| :white_check_mark: | no issue | - [v-viewer](https://github.com/mirari/v-viewer) - Image viewer component for vue, supports rotation, scale, zoom and so on, based on [viewer.js](https://github.com/fengyuanchen/viewerjs)  
 | :x: | no issue | - [vue-messagebox](https://github.com/zhangxiang958/vue-messageBox) - Easy and made-to-order messagebox component on Vue.  
 | :x: | [issue](https://github.com/Godofbrowser/vuejs-dialog/issues/78) | - [vuejs-dialog](https://github.com/Godofbrowser/vuejs-dialog) - A lightweight, promise based alert, prompt and confirm dialog.  
 | :x: | no issue | - [@hscmap/vue-window](https://github.com/michitaro/vue-window) - Window UI Component for vue2.  
@@ -213,6 +213,7 @@ Overlay / modal / alert / dialog / lightbox / popup_
 | :x: | no issue | - [@kouts/vue-modal](https://github.com/kouts/vue-modal) - A customizable, stackable and lightweight modal component that adheres to the guidelines set in WAI-ARIA Dialog (Modal) section of W3C.  
 | :white_check_mark: | MIT | - [vue-final-modal](https://github.com/hunterliu1003/vue-final-modal) Tailwind-friendly, highly customizable, stackable modal component.  
 | :x: | no issue | - [vuesence-modal-window](https://github.com/altrusl/vuesence-modal-window) - Simple Modal window Vue.js component that takes care of overlay, centering, animation, outside click/`Escape` key/`X-mark` closing and allows you to concentrate on its content only.  
+| :white_check_mark: | MIT | - [v3confirm](https://github.com/malekim/v3confirm) - A plugin dedicated for vue3 to show confirm dialog modal.
 
 | :x: | no issue | #### Parallax
 
@@ -1180,3 +1181,7 @@ _Set of components without layout system_
 | :white_check_mark: | MIT | - [Equal UI](https://github.com/quatrochan/Equal) - Vue UI kit based on TypeScript 🧬  
 | :x: | no issue | - [slim-ui](https://github.com/mevinoth/slim-ui) - Minimal UI components based on Vue.js  
 | :x: | no issue | - [Vue Component Development Kit](https://github.com/christiankienle/cdk) - Unstyled, highly tested and flexible Vue components/mixins/plugins.  
+
+#### Fullscreen
+
+- [vue-fullscreen](https://github.com/mirari/vue-fullscreen) - A simple Vue component for fullscreen, support Vue2 and Vue3.
